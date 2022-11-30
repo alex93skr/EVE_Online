@@ -1,0 +1,183 @@
+
+
+
+
+
+| 1000180 | State Protectorate          | 13083   | 250     | 250000   | Datacore - Rocket Science                                     | 0.0        | 5       | 143983.95     | 183      | 1879.679        |
+
+| 1000145 | Intaki Commerce             | 4086    | 4000    | 1000000   | Focused Void Bomb                                         | 30450603.0  | 20      | 2611788.07    | 113      | 5196.2897       |
+| 1000144 | Intaki Bank                 | 11124   | 4000    | 1000000   | Focused Void Bomb                                         | 30450603.0  | 20      | 2611788.07    | 113      | 5196.2897       |
+| 1000146 | Intaki Space Police         | 29521   | 4000    | 1000000   | Focused Void Bomb                                         | 30450603.0  | 20      | 2611788.07    | 113      | 5196.2897       |
+| 1000147 | Intaki Syndicate            | 10792   | 4000    | 1000000   | Focused Void Bomb                                         | 30450603.0  | 20      | 2611788.07    | 113      | 5196.2897  
+
+
+
+
+прочекать патрики
+
+
+| 1000094 | TransStellar Shipping       | 28647   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000095 | Federal Freight             | 14318   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000100 | Quafe Company               | 9238    | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000096 | Inner Zone Shipping         | 6571    | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000098 | Astral Mining Inc.          | 28789   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000101 | CreoDron                    | 9830    | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000099 | Combined Harvest            | 19974   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000097 | Material Acquisition        | 17249   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000104 | Poteque Pharmaceuticals     | 5698    | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000105 | Impetus                     | 30326   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000106 | Egonics Inc.                | 12709   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000107 | The Scope                   | 16802   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000103 | Allotek Industries          | 20450   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000110 | FedMart                     | 7017    | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000111 | Aliastra                    | 640     | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000102 | Roden Shipyards             | 13677   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000109 | Duvolle Laboratories        | 29632   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000108 | Chemal Tech                 | 22491   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000112 | Bank of Luminaire           | 19832   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000118 | Supreme Court               | 18410   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000115 | University of Caille        | 15563   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000116 | President                   | 25265   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000113 | Pend Insurance              | 28946   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000117 | Senate                      | 11356   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000114 | Garoun Investment Bank      | 4163    | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000119 | Federal Administration      | 29250   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000121 | Federal Intelligence Office | 29961   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000120 | Federation Navy             | 26540   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000122 | Federation Customs          | 20158   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000169 | Center for Advanced Studies | 15406   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000168 | Federal Navy Academy        | 3806    | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+| 1000181 | Federal Defense Union       | 27272   | 2400    | 2400000   | Federation Navy Iron Charge L                             | 223250.0    | 5000    | 4842.8        | 20287    | 8996.1458333333 |
+
+
+| 1000048 | Vherokior Tribe             | 21096   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000046 | Sebiestor Tribe             | 11464   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000050 | Republic Parliament         | 29062   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000047 | Krusual Tribe               | 20850   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000051 | Republic Fleet              | 23835   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000049 | Brutor Tribe                | 23331   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000053 | Urban Management            | 17060   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000056 | Core Complexion Inc.        | 10239   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000055 | Minmatar Mining Corporation | 13801   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000061 | Freedom Extension           | 21999   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000060 | Native Freshfood            | 1422    | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000059 | Six Kin Development         | 9346    | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000058 | Eifyr and Co.               | 13967   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000057 | Boundless Creation          | 26798   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000052 | Republic Justice Department | 12445   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000054 | Republic Security Services  | 2538    | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000062 | The Leisure Group           | 16614   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000171 | Republic University         | 1949    | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000172 | Pator Tech School           | 9641    | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000170 | Republic Military School    | 15141   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery                   | 55878479.0  | 1       | 239966363.64  | 1        | 8366.0897638095 |
+| 1000182 | Tribal Liberation Force     | 18281   | 21000   | 8400000   | Republic Fleet 720mm Howitzer Artillery 
+
+
+
+| 1000048 | Vherokior Tribe             | 21094   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000046 | Sebiestor Tribe             | 11462   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000050 | Republic Parliament         | 29060   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000047 | Krusual Tribe               | 20848   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000051 | Republic Fleet              | 23833   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000049 | Brutor Tribe                | 23329   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000053 | Urban Management            | 17058   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000056 | Core Complexion Inc.        | 10237   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000055 | Minmatar Mining Corporation | 13799   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000061 | Freedom Extension           | 21997   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000060 | Native Freshfood            | 1420    | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000059 | Six Kin Development         | 9344    | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000058 | Eifyr and Co.               | 13965   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000057 | Boundless Creation          | 26796   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000052 | Republic Justice Department | 12443   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000054 | Republic Security Services  | 2536    | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000062 | The Leisure Group           | 16612   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000171 | Republic University         | 1947    | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000172 | Pator Tech School           | 9639    | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000170 | Republic Military School    | 15139   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+| 1000182 | Tribal Liberation Force     | 18279   | 21000   | 8400000   | Republic Fleet 425mm Autocannon                           | 56252964.0  | 1       | 205680000.0   | 1        | 6715.5731471429 |
+
+
+| 1000048 | Vherokior Tribe             | 21097   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000046 | Sebiestor Tribe             | 11465   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000050 | Republic Parliament         | 29063   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000047 | Krusual Tribe               | 20851   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000051 | Republic Fleet              | 23836   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000049 | Brutor Tribe                | 23332   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000053 | Urban Management            | 17061   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000056 | Core Complexion Inc.        | 10240   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000055 | Minmatar Mining Corporation | 13802   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000061 | Freedom Extension           | 22000   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000060 | Native Freshfood            | 1423    | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000059 | Six Kin Development         | 9347    | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000058 | Eifyr and Co.               | 13968   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000057 | Boundless Creation          | 26799   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000052 | Republic Justice Department | 12446   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000054 | Republic Security Services  | 2539    | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000062 | The Leisure Group           | 16615   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000171 | Republic University         | 1950    | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000172 | Pator Tech School           | 9642    | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000170 | Republic Military School    | 15142   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+| 1000182 | Tribal Liberation Force     | 18282   | 26250   | 10500000  | Republic Fleet 800mm Repeating Cannon                     | 68406805.0  | 1       | 203212676.06  | 2        | 4735.4617718095 |
+
+
+| 1000048 | Vherokior Tribe             | 21161   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000046 | Sebiestor Tribe             | 11552   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000050 | Republic Parliament         | 29127   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000047 | Krusual Tribe               | 20915   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000051 | Republic Fleet              | 23956   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000049 | Brutor Tribe                | 23452   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000053 | Urban Management            | 17125   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000056 | Core Complexion Inc.        | 10327   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000055 | Minmatar Mining Corporation | 13889   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000061 | Freedom Extension           | 22064   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000060 | Native Freshfood            | 1510    | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000059 | Six Kin Development         | 9434    | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000058 | Eifyr and Co.               | 14055   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000057 | Boundless Creation          | 26886   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000052 | Republic Justice Department | 12566   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000054 | Republic Security Services  | 2659    | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000062 | The Leisure Group           | 16679   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000171 | Republic University         | 2037    | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000172 | Pator Tech School           | 9706    | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000170 | Republic Military School    | 15262   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+| 1000182 | Tribal Liberation Force     | 18346   | 15000   | 7500000  | Republic Fleet Medium Cap Battery                             | 64205.0    | 1       | 37810816.59   | 16       | 2016.4408046667 |
+
+
+| 1000048 | Vherokior Tribe             | 21070   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000046 | Sebiestor Tribe             | 11438   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000050 | Republic Parliament         | 29036   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000047 | Krusual Tribe               | 20824   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000051 | Republic Fleet              | 23714   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000049 | Brutor Tribe                | 23210   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000053 | Urban Management            | 17034   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000056 | Core Complexion Inc.        | 10213   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000055 | Minmatar Mining Corporation | 13775   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000061 | Freedom Extension           | 21972   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000060 | Native Freshfood            | 1396    | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000059 | Six Kin Development         | 9320    | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000058 | Eifyr and Co.               | 13940   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000057 | Boundless Creation          | 26772   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000052 | Republic Justice Department | 12324   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000054 | Republic Security Services  | 2417    | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000062 | The Leisure Group           | 16588   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000171 | Republic University         | 1923    | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000172 | Pator Tech School           | 9615    | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000170 | Republic Military School    | 15020   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286 |
+| 1000182 | Tribal Liberation Force     | 18214   | 7000    | 2800000  | Republic Fleet Heavy Assault Missile Launcher                 | 18439275.0 | 1       | 35274337.7    | 7        | 2005.0090114286
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

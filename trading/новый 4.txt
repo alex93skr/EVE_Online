@@ -1,0 +1,43 @@
+
+
+банки	
+
+
+
+
+
+"263": "Cap Booster 25",
+"264": "Cap Booster 50",
+"3552": "Cap Booster 75",
+"3554": "Cap Booster 100",
+"11283": "Cap Booster 150",
+"11285": "Cap Booster 200",
+"11287": "Cap Booster 400",
+"11289": "Cap Booster 800",
+"41489": "Cap Booster 3200",
+
+"33330": "Navy Cap Booster 25",
+"33332": "Navy Cap Booster 50",
+"33334": "Navy Cap Booster 75",
+"31982": "Navy Cap Booster 100",
+"31990": "Navy Cap Booster 150",
+"31998": "Navy Cap Booster 200",
+"32006": "Navy Cap Booster 400",
+"32014": "Navy Cap Booster 800",
+"41490": "Navy Cap Booster 3200",
+
+
+263:33330,
+264:33332,
+3552:33334,
+3554:31982,
+11283:31990,
+11285:31998,
+11287:32006,
+11289:32014,
+41489:41490,
+
+
+
+
+

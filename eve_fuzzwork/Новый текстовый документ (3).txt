@@ -1,0 +1,143 @@
+
+
+
+
+
+
+
+
+
+| 1000008 | Minedrill                   | 7862    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000011 | Wiyrkomi Corporation        | 15892   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000004 | Ytiri                       | 3662    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000003 | Prompt Delivery             | 2180    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000010 | Kaalakiota Corporation      | 7322    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000005 | Hyasyoda Corporation        | 6750    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000002 | CBD Corporation             | 14958   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000007 | Poksu Mineral Group         | 13438   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000009 | Caldari Provisions          | 13283   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000006 | Deep Core Mining Inc.       | 24932   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000017 | Nugoeihuvi Corporation      | 6900    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000021 | Zero-G Research Firm        | 11239   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000019 | Ishukone Corporation        | 19104   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000012 | Top Down                    | 19259   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000015 | Caldari Steel               | 17921   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000018 | Echelon Entertainment       | 1865    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000014 | Perkone                     | 18719   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000013 | Rapid Assembly              | 7477    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000016 | Zainou                      | 10155   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000020 | Lai Dai Corporation         | 1715    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000029 | State and Region Bank       | 17525   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000027 | Expert Housing              | 8628    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000030 | Modern Finances             | 16530   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000022 | Propel Dynamics             | 523     | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000023 | Expert Distribution         | 3178    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000031 | Chief Executive Panel       | 17675   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000026 | Caldari Constructions       | 2335    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000024 | CBD Sell Division           | 19409   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000028 | Caldari Funds Unlimited     | 22220   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000025 | Sukuuvestaa Corporation     | 23633   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000033 | Caldari Business Tribunal   | 5580    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000032 | Mercantile Club             | 16976   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000034 | House of Records            | 15737   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000037 | Lai Dai Protection Service  | 20766   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000038 | Ishukone Watch              | 28399   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000039 | Home Guard                  | 14693   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000036 | Internal Security           | 3510    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000035 | Caldari Navy                | 1317    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000041 | Spacelane Patrol            | 30833   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000040 | Peace and Order Unit        | 8194    | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000045 | Science and Trade Institute | 30501   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000044 | School of Applied Knowledge | 24137   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000042 | Wiyrkomi Peace Corps        | 22994   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000043 | Corporate Police Force      | 11877   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000167 | State War Academy           | 24776   | 30000   | 12000000  | Caldari Navy 425mm Railgun                                | 56606536.0  | 1       | 299900000.0   | 1        | 7709.7821413333 |
+| 1000180 | State Protectorate          | 13095   | 30000   | 12000000  | Caldari Navy 425mm Railgun   
+
+
+
+
+
+| 1000037 | Lai Dai Protection Service  | 20586   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000038 | Ishukone Watch              | 28163   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000039 | Home Guard                  | 14457   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000036 | Internal Security           | 3274    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000035 | Caldari Navy                | 1081    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000041 | Spacelane Patrol            | 30597   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000040 | Peace and Order Unit        | 7958    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000042 | Wiyrkomi Peace Corps        | 22758   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000043 | Corporate Police Force      | 11641   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000051 | Republic Fleet              | 23743   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000049 | Brutor Tribe                | 23239   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000052 | Republic Justice Department | 12353   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000054 | Republic Security Services  | 2446    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000080 | Ministry of War             | 12034   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000084 | Amarr Navy                  | 21256   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000082 | Ministry of Internal Order  | 4276    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000088 | Sarum Family                | 6226    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000121 | Federal Intelligence Office | 30076   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000120 | Federation Navy             | 26655   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000128 | Mordu's Legion              | 27763   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000124 | Archangels                  | 27480   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000127 | Guristas                    | 756     | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000123 | Ammatar Fleet               | 21573   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000122 | Federation Customs          | 20273   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000138 | Dominations                 | 25661   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000146 | Intaki Space Police         | 29364   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000136 | Guardian Angels             | 8284    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000134 | Blood Raiders               | 15982   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000135 | Serpentis Corporation       | 4836    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000147 | Intaki Syndicate            | 10635   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000156 | Royal Khanid Navy           | 2781    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000160 | Thukker Mix                 | 5965    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000162 | True Power                  | 32      | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000166 | Imperial Academy            | 5128    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000168 | Federal Navy Academy        | 3921    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000170 | Republic Military School    | 15049   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000167 | State War Academy           | 24540   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000182 | Tribal Liberation Force     | 18010   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000181 | Federal Defense Union       | 26968   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000179 | 24th Imperial Crusade       | 8847    | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+| 1000180 | State Protectorate          | 12842   | 375     | 375000    | Eifyr and Co. 'Rogue' Acceleration Control AC-601         | 0.0         | 1       | 2069458.53    | 7        | 4518.55608      |
+
+
+
+
+| 1000071 | Inherent Implants           | 396     | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000066 | Viziam                      | 16390   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000064 | Carthum Conglomerate        | 19744   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000068 | Noble Appliances            | 23177   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000065 | Imperial Armaments          | 28096   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000069 | Ducia Foundry               | 4770    | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000067 | Zoar and Sons               | 24320   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000070 | HZO Refinery                | 22402   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000063 | Amarr Constructions         | 26077   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000072 | Imperial Shipment           | 22712   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000073 | Amarr Certified News        | 18899   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000081 | Ministry of Assessment      | 10050   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000078 | Imperial Chancellor         | 10965   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000079 | Amarr Civil Service         | 27421   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000075 | Nurtura                     | 24473   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000076 | Further Foodstuffs          | 14230   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000074 | Joint Harvesting            | 25471   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000077 | Royal Amarr Institute       | 19591   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000080 | Ministry of War             | 12288   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000090 | Ardishapur Family           | 29846   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000086 | Emperor Family              | 26446   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000089 | Kor-Azor Family             | 10595   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000091 | Tash-Murkon Family          | 18614   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000083 | Amarr Trade Registry        | 25112   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000085 | Court Chamberlain           | 28580   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000087 | Kador Family                | 21964   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000084 | Amarr Navy                  | 21510   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000082 | Ministry of Internal Order  | 4530    | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000088 | Sarum Family                | 6480    | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000093 | Theology Council            | 25622   | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000092 | Civic Court                 | 9607    | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000165 | Hedion University           | 8808    | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000166 | Imperial Academy            | 5382    | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+| 1000179 | 24th Imperial Crusade       | 9145    | 36000   | 14400000  | Imperial Navy Tachyon Beam Laser                          | 97472632.0  | 1       | 239513513.51  | 1        | 3545.5800555556 |
+
+
+
+

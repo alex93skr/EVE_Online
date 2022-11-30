@@ -1,0 +1,2121 @@
+
+больше всего единиц выставлено КОМПОМ
+
+
+
+17322 999999000 Thermonuclear Trigger Unit Blueprint
+17324 999999000 Plasma Thruster Blueprint
+17325 999999000 Nanomechanical Microprocessor Blueprint
+17326 999999000 Nuclear Pulse Generator Blueprint
+17333 999999000 Ladar Sensor Cluster Blueprint
+17342 999999000 Nuclear Reactor Unit Blueprint
+17346 999999000 Deflection Shield Emitter Blueprint
+17347 999999000 Electrolytic Capacitor Unit Blueprint
+17355 999999000 Fernite Carbide Composite Armor Plate Blueprint
+17330 999999000 Nanoelectrical Microprocessor Blueprint
+17334 999999000 Tesseract Capacitor Unit Blueprint
+17335 999999000 EM Pulse Generator Blueprint
+17336 999999000 Radar Sensor Cluster Blueprint
+17338 999999000 Antimatter Reactor Unit Blueprint
+17348 999999000 Laser Focusing Crystals Blueprint
+17349 999999000 Fusion Thruster Blueprint
+17350 999999000 Tungsten Carbide Armor Plate Blueprint
+17359 999999000 Linear Shield Emitter Blueprint
+17323 999998987 Crystalline Carbonide Armor Plate Blueprint
+17329 999998987 Ion Thruster Blueprint
+17337 999998987 Oscillator Capacitor Unit Blueprint
+17331 999998987 Fusion Reactor Unit Blueprint
+17339 999998987 Plasma Pulse Generator Blueprint
+17341 999998987 Pulse Shield Emitter Blueprint
+17344 999998987 Particle Accelerator Unit Blueprint
+17345 999998987 Magnetometric Sensor Cluster Blueprint
+17357 999998987 Photon Microprocessor Blueprint
+17327 982820120 Scalar Capacitor Unit Blueprint
+17328 982820120 Titanium Diborite Armor Plate Blueprint
+17332 982820120 Graviton Pulse Generator Blueprint
+17340 982820120 Gravimetric Sensor Cluster Blueprint
+17351 982820120 Quantum Microprocessor Blueprint
+17352 982820120 Sustained Shield Emitter Blueprint
+17353 982820120 Graviton Reactor Unit Blueprint
+17354 982820120 Superconductor Rails Blueprint
+17356 982820120 Magpulse Thruster Blueprint
+32866 10000000 Medium Secure Container Blueprint
+32864 10000000 Huge Secure Container Blueprint
+32863 10000000 Giant Secure Container Blueprint
+32865 10000000 Large Secure Container Blueprint
+32867 10000000 Small Secure Container Blueprint
+32869 9999996 Medium Audit Log Secure Container Blueprint
+32868 9999996 Small Audit Log Secure Container Blueprint
+32870 9999996 Large Audit Log Secure Container Blueprint
+33004 9999990 Enormous Freight Container Blueprint
+33006 9999990 Huge Freight Container Blueprint
+33008 9999990 Large Freight Container Blueprint
+33010 9999990 Medium Freight Container Blueprint
+33012 9999990 Small Freight Container Blueprint
+32861 9999990 Large Standard Container Blueprint
+32862 9999990 Giant Freight Container Blueprint
+32860 9999990 Medium Standard Container Blueprint
+32859 9999990 Small Standard Container Blueprint
+32839 9949940 Quest Survey Probe I Blueprint
+32854 9949940 Discovery Survey Probe I Blueprint
+32855 9949940 Gaze Survey Probe I Blueprint
+22543 9949877 Mining Laser Upgrade I Blueprint
+22577 9949877 Ice Harvester Upgrade I Blueprint
+29000 9947059 Optimal Range Script Blueprint
+29004 9947059 Focused Warp Disruption Script Blueprint
+29006 9947059 Optimal Range Disruption Script Blueprint
+29012 9947059 Scan Resolution Script Blueprint
+29014 9947059 Scan Resolution Dampening Script Blueprint
+29008 9947059 Tracking Speed Disruption Script Blueprint
+29016 9947059 Targeting Range Dampening Script Blueprint
+29002 9947059 Tracking Speed Script Blueprint
+29010 9947059 Targeting Range Script Blueprint
+30467 9944345 Electromechanical Interface Nexus Blueprint
+30479 9944345 Reconfigured Subspace Calibrator Blueprint
+45656 9944345 Superconducting Magnetometric Amplifier Blueprint
+30475 9944345 Nanowire Composites Blueprint
+29993 9944345 Optimized Nano-Engines Blueprint
+29995 9944345 Warfare Computation Core Blueprint
+29997 9944345 Emergent Neurovisual Interface Blueprint
+45658 9944345 Superconducting Radar Amplifier Blueprint
+45657 9944345 Superconducting Gravimetric Amplifier Blueprint
+30003 9944345 Fullerene Intercalated Sheets Blueprint
+30009 9944345 Reinforced Metallofullerene Alloys Blueprint
+45659 9944345 Superconducting Ladar Amplifier Blueprint
+34397 9944345 Self-Assembling Nanolattice Blueprint
+30465 9944345 Metallofullerene Plating Blueprint
+30471 9944345 Neurovisual Output Analyzer Blueprint
+30477 9944345 Fulleroferrocene Power Conduits Blueprint
+27309 9836040 Station Warehouse Container Blueprint
+32871 9836040 Station Vault Container Blueprint
+32858 9836040 Station Container Blueprint
+9852 9819827 Tobacco
+45011 9536539 Focused Warp Scrambling Script Blueprint
+41230 9536539 ECCM Script Blueprint
+40336 9536539 Missile Range Disruption Script Blueprint
+40337 9536539 Missile Precision Disruption Script Blueprint
+35796 9536539 Missile Range Script Blueprint
+35797 9536539 Missile Precision Script Blueprint
+3699 8911506 Quafe
+43 7269519 Antibiotics
+3814 4992164 Reports
+9850 4802535 Spirits
+3717 4716895 Dairy Products
+3647 4570335 Holoreels
+3687 4558843 Electronic Parts
+3721 4009417 Slaves
+41 3717202 Garbage
+3685 3695101 Hydrogen Batteries
+3715 3496207 Frozen Food
+3673 3171831 Wheat
+3777 3000000 Long-limb Roes
+3643 2831140 Soil
+3773 2340168 Hydrochloric Acid
+17939 1994318 Core Probe Launcher I Blueprint
+18640 1994318 Expanded Probe Launcher I Blueprint
+11855 1966647 Protein Delicacies
+27015 1909158 Civilian Data Analyzer Blueprint
+3812 1863475 Data Sheets
+9844 1142558 Small Arms
+57514 999991 Ladar-FTL Interlink Communicator Blueprint
+57511 999978 Radar-FTL Interlink Communicator Blueprint
+57513 999960 Magnetometric-FTL Interlink Communicator Blueprint
+57512 999940 Gravimetric-FTL Interlink Communicator Blueprint
+57524 999895 Capital Core Temperature Regulator Blueprint
+57525 999895 Neurolink Protection Cell Blueprint
+57520 999895 Neurolink Enhancer Reservoir Blueprint
+57526 999895 Enhanced Neurolink Protection Cell Blueprint
+57522 999895 Genetic Mutation Inhibiter Blueprint
+57523 999895 Life Support Backup Unit Blueprint
+57518 999895 Genetic Lock Preserver Blueprint
+57517 999895 Programmable Purification Membrane Blueprint
+57516 999895 Core Temperature Regulator Blueprint
+57519 999895 Genetic Safeguard Filter Blueprint
+57521 999895 Genetic Structure Repairer Blueprint
+28879 970162 Nanite Operation
+28880 970162 Nanite Interfacing
+41594 953398 Shield EM Resistance Script Blueprint
+41595 953398 Shield Thermal Resistance Script Blueprint
+41597 953398 Shield Explosive Resistance Script Blueprint
+41590 953398 Armor EM Resistance Script Blueprint
+41591 953398 Armor Thermal Resistance Script Blueprint
+41596 953398 Shield Kinetic Resistance Script Blueprint
+41593 951224 Armor Explosive Resistance Script Blueprint
+41592 949050 Armor Kinetic Resistance Script Blueprint
+9826 850923 Carbon
+12865 582417 Quafe Ultra
+42 496550 Spiced Wine
+45 277975 Frozen Plant Seeds
+12478 199992 Khumaak
+16281 192831 Ice Harvesting
+60459 147950 Rogue Drone Survey Data
+33517 136846 Mobile Depot Blueprint
+3713 100000 Vitoc
+20445 99960 Dual Giga Pulse Laser I Blueprint
+20447 99960 Dual Giga Beam Laser I Blueprint
+20702 99960 Capital Armor Repairer I Blueprint
+3664 99960 Large Hull Repairer I Blueprint
+57515 99863 Auto-Integrity Preservation Seal Blueprint
+11585 99808 Pax Amarria
+16279 99422 Ice Harvester I Blueprint
+38660 99422 Ice Mining Laser I Blueprint
+17483 99422 Strip Miner I Blueprint
+12092 99353 Interceptors
+18025 98649 Ice Processing
+2798 98430 White Noise Generation Battery Blueprint
+2737 98430 Territorial Claim Unit Blueprint
+2799 98430 Energy Neutralizing Battery Blueprint
+2803 98430 Large Blaster Battery Blueprint
+2804 98430 Large Railgun Battery Blueprint
+2805 98430 Large Artillery Battery Blueprint
+2806 98430 Medium Blaster Battery Blueprint
+2807 98430 Large AutoCannon Battery Blueprint
+2808 98430 Medium Railgun Battery Blueprint
+2810 98430 Medium Artillery Battery Blueprint
+2813 98430 Small Blaster Battery Blueprint
+29086 98430 Capital Photon Microprocessor Blueprint
+2814 98430 Medium AutoCannon Battery Blueprint
+2815 98430 Small Railgun Battery Blueprint
+2816 98430 Small Artillery Battery Blueprint
+29092 98430 Capital Pulse Shield Emitter Blueprint
+2819 98430 Small AutoCannon Battery Blueprint
+2822 98430 XL Torpedo Battery Blueprint
+2823 98430 Cruise Missile Battery Blueprint
+2824 98430 Torpedo Battery Blueprint
+29062 98430 Capital Ion Thruster Blueprint
+2825 98430 Small Pulse Laser Battery Blueprint
+34853 98430 Quantum Flux Generator 4 Blueprint
+10839 98430 Large Shield Booster I Blueprint
+10841 98430 X-Large Shield Booster I Blueprint
+28584 98430 Industrial Core I Blueprint
+29066 98430 Capital Ladar Sensor Cluster Blueprint
+2774 98430 Amarr Control Tower Blueprint
+2776 98430 Amarr Control Tower Small Blueprint
+2828 98430 Medium Beam Laser Battery Blueprint
+33401 98430 Bastion Module I Blueprint
+3978 98430 Large Proton Smartbomb I Blueprint
+34854 98430 Quantum Flux Generator 5 Blueprint
+790 98430 Torpedo Launcher I Blueprint
+2775 98430 Amarr Control Tower Medium Blueprint
+2194 98430 Praetor I Blueprint
+2826 98430 Small Beam Laser Battery Blueprint
+2827 98430 Medium Pulse Laser Battery Blueprint
+2829 98430 Large Pulse Laser Battery Blueprint
+2830 98430 Large Beam Laser Battery Blueprint
+21948 98430 Structure Construction Parts Blueprint
+21950 98430 Structure Hangar Array Blueprint
+21952 98430 Structure Storage Bay Blueprint
+21954 98430 Structure Laboratory Blueprint
+21956 98430 Structure Factory Blueprint
+20281 98430 Siege Module I Blueprint
+2780 98430 Gallente Control Tower Blueprint
+29074 98430 Capital Nanoelectrical Microprocessor Blueprint
+3539 98430 Large Armor Repairer I Blueprint
+2794 98430 Phase Inversion Battery Blueprint
+29076 98430 Capital Nanomechanical Microprocessor Blueprint
+3982 98430 Large Graviton Smartbomb I Blueprint
+3988 98430 Large Plasma Smartbomb I Blueprint
+2750 98430 X-Large Ship Maintenance Array Blueprint
+29078 98430 Capital Nuclear Pulse Generator Blueprint
+29102 98430 Capital Sustained Shield Emitter Blueprint
+29080 98430 Capital Nuclear Reactor Unit Blueprint
+2752 98430 Ship Maintenance Array Blueprint
+29082 98430 Capital Oscillator Capacitor Unit Blueprint
+21028 98430 Capital Cargo Bay Blueprint
+34852 98430 Quantum Flux Generator 3 Blueprint
+29088 98430 Capital Plasma Pulse Generator Blueprint
+29090 98430 Capital Plasma Thruster Blueprint
+29040 98430 Capital Antimatter Reactor Unit Blueprint
+29044 98430 Capital Deflection Shield Emitter Blueprint
+34847 98430 Pirate Detection Array 3 Blueprint
+2477 98430 Berserker I Blueprint
+34863 98430 Survey Networks 4 Blueprint
+34855 98430 Ore Prospecting Array 1 Blueprint
+29042 98430 Capital Crystalline Carbonide Armor Plate Blueprint
+29046 98430 Capital Electrolytic Capacitor Unit Blueprint
+34856 98430 Ore Prospecting Array 2 Blueprint
+29048 98430 Capital EM Pulse Generator Blueprint
+34868 98430 Supercapital Construction Facilities Blueprint
+2739 98430 Nanite Repair Paste Blueprint
+29084 98430 Capital Particle Accelerator Unit Blueprint
+29094 98430 Capital Quantum Microprocessor Blueprint
+29108 98430 Capital Titanium Diborite Armor Plate Blueprint
+21958 98430 Structure Repair Facility Blueprint
+21960 98430 Structure Reprocessing Plant Blueprint
+34841 98430 Entrapment Array 2 Blueprint
+2736 98430 Warp Disruption Battery Blueprint
+21962 98430 Structure Docking Bay Blueprint
+29104 98430 Capital Tesseract Capacitor Unit Blueprint
+34858 98430 Ore Prospecting Array 4 Blueprint
+29068 98430 Capital Linear Shield Emitter Blueprint
+34869 98430 Entrapment Array 1 Blueprint
+2781 98430 Gallente Control Tower Medium Blueprint
+29100 98430 Capital Superconductor Rails Blueprint
+34844 98430 Entrapment Array 5 Blueprint
+2757 98430 Explosion Dampening Array Blueprint
+29096 98430 Capital Radar Sensor Cluster Blueprint
+29098 98430 Capital Scalar Capacitor Unit Blueprint
+29050 98430 Capital Fernite Carbide Composite Armor Plate Blueprint
+24546 98430 Capital Jump Bridge Array Blueprint
+34842 98430 Entrapment Array 3 Blueprint
+21964 98430 Structure Market Network Blueprint
+34843 98430 Entrapment Array 4 Blueprint
+21966 98430 Structure Medical Center Blueprint
+21968 98430 Structure Office Center Blueprint
+34845 98430 Pirate Detection Array 1 Blueprint
+21970 98430 Structure Mission Network Blueprint
+34848 98430 Pirate Detection Array 4 Blueprint
+34846 98430 Pirate Detection Array 2 Blueprint
+29072 98430 Capital Magpulse Thruster Blueprint
+2445 98430 Ogre I Blueprint
+29056 98430 Capital Gravimetric Sensor Cluster Blueprint
+34849 98430 Pirate Detection Array 5 Blueprint
+34850 98430 Quantum Flux Generator 1 Blueprint
+34851 98430 Quantum Flux Generator 2 Blueprint
+34857 98430 Ore Prospecting Array 3 Blueprint
+34859 98430 Ore Prospecting Array 5 Blueprint
+34860 98430 Survey Networks 1 Blueprint
+34861 98430 Survey Networks 2 Blueprint
+29054 98430 Capital Fusion Thruster Blueprint
+21026 98430 Capital Jump Drive Blueprint
+29052 98430 Capital Fusion Reactor Unit Blueprint
+34864 98430 Survey Networks 5 Blueprint
+2777 98430 Caldari Control Tower Blueprint
+29060 98430 Capital Graviton Reactor Unit Blueprint
+2778 98430 Caldari Control Tower Medium Blueprint
+29064 98430 Capital Laser Focusing Crystals Blueprint
+2779 98430 Caldari Control Tower Small Blueprint
+2763 98430 Sensor Dampening Battery Blueprint
+34862 98430 Survey Networks 3 Blueprint
+34865 98430 Advanced Logistics Network Blueprint
+29058 98430 Capital Graviton Pulse Generator Blueprint
+23954 98430 Jump Portal Generator I Blueprint
+24349 98430 Small Tractor Beam I Blueprint
+24548 98430 Capital Clone Vat Bay Blueprint
+24557 98430 Capital Doomsday Weapon Mount Blueprint
+24559 98430 Capital Ship Maintenance Bay Blueprint
+24561 98430 Capital Corporate Hangar Bay Blueprint
+24645 98430 Capital Tractor Beam I Blueprint
+27952 98430 Triage Module I Blueprint
+29070 98430 Capital Magnetometric Sensor Cluster Blueprint
+29106 98430 Capital Thermonuclear Trigger Unit Blueprint
+29110 98430 Capital Tungsten Carbide Armor Plate Blueprint
+2792 98430 Ion Field Projection Battery Blueprint
+34866 98430 Cynosural Navigation Blueprint
+1214 98430 Wasp I Blueprint
+2755 98430 Ballistic Deflection Array Blueprint
+2783 98430 Minmatar Control Tower Blueprint
+34867 98430 Cynosural Suppression Blueprint
+33150 98430 Personal Hangar Array Blueprint
+2784 98430 Minmatar Control Tower Medium Blueprint
+2735 98430 Infrastructure Hub Blueprint
+2741 98430 Stasis Webification Battery Blueprint
+2796 98430 Spatial Destabilization Battery Blueprint
+2787 98430 Corporate Hangar Array Blueprint
+2759 98430 Heat Dissipation Array Blueprint
+36953 98430 Structure Electromagnetic Sensor Blueprint
+2782 98430 Gallente Control Tower Small Blueprint
+2785 98430 Minmatar Control Tower Small Blueprint
+2740 98430 Warp Scrambling Battery Blueprint
+36954 98430 Structure Acceleration Coils Blueprint
+36955 98430 Structure Advertisement Nexus Blueprint
+2761 98430 Photon Scattering Array Blueprint
+46153 97971 Common Moon Ore Processing
+12183 97971 Dark Ochre Processing
+12191 97971 Plagioclase Processing
+12189 97971 Mercoxit Processing
+12180 97971 Arkonor Processing
+12181 97971 Bistot Processing
+12184 97971 Gneiss Processing
+12186 97971 Hemorphite Processing
+12190 97971 Omber Processing
+12192 97971 Pyroxeres Processing
+12193 97971 Scordite Processing
+12194 97971 Spodumain Processing
+12195 97971 Veldspar Processing
+12182 97971 Crokite Processing
+12185 97971 Hedbergite Processing
+12188 97971 Kernite Processing
+46154 97971 Uncommon Moon Ore Processing
+46155 97971 Rare Moon Ore Processing
+46152 97971 Ubiquitous Moon Ore Processing
+46156 97971 Exceptional Moon Ore Processing
+17653 97768 Iron Charge XL Blueprint
+17649 97768 Antimatter Charge XL Blueprint
+17651 97768 Iridium Charge XL Blueprint
+17655 97768 Lead Charge XL Blueprint
+17657 97768 Plutonium Charge XL Blueprint
+17659 97768 Thorium Charge XL Blueprint
+17661 97768 Tungsten Charge XL Blueprint
+17663 97768 Uranium Charge XL Blueprint
+11395 97680 Deep Core Mining
+20704 97019 Capital Shield Booster I Blueprint
+30544 96963 Caldari Defensive Systems
+3318 96963 Weapon Upgrades
+19761 96963 Signal Dispersion
+19766 96963 Signal Suppression
+12305 96963 Drone Navigation
+30545 96963 Minmatar Defensive Systems
+22178 96963 Relic Analyzer I Blueprint
+19922 96963 Signature Focusing
+22242 96963 Capital Ship Construction
+3439 96963 Repair Drone Operation
+3373 96963 Starbase Defense Management
+30538 96963 Amarr Propulsion Systems
+3408 96963 Sleeper Encryption Methods
+25862 96963 Salvager I Blueprint
+11584 96963 Anchoring
+19767 96963 Weapon Destabilization
+20342 96963 Advanced Spaceship Command
+21610 96963 Jump Fuel Conservation
+21611 96963 Jump Drive Calibration
+22176 96963 Data Analyzer I Blueprint
+23606 96963 Drone Sharpshooting
+24563 96963 Doomsday Operation
+24572 96963 Capital Capacitor Emission Systems
+25863 96963 Salvaging
+3419 96963 Shield Management
+3420 96963 Tactical Shield Manipulation
+3423 96963 Capacitor Emission Systems
+3400 96963 Outpost Construction
+28164 96963 Thermodynamics
+3421 96963 Energy Pulse Weapons
+3432 96963 Electronics Upgrades
+3456 96963 Jump Drive Operation
+3731 96963 Megacorp Management
+30546 96963 Gallente Core Systems
+30540 96963 Gallente Defensive Systems
+3424 96963 Energy Grid Upgrades
+30532 96963 Amarr Defensive Systems
+30552 96963 Caldari Propulsion Systems
+30537 96963 Amarr Offensive Systems
+30539 96963 Amarr Core Systems
+30551 96963 Minmatar Offensive Systems
+30547 96963 Minmatar Core Systems
+30548 96963 Caldari Core Systems
+30549 96963 Caldari Offensive Systems
+30550 96963 Gallente Offensive Systems
+30554 96963 Minmatar Propulsion Systems
+30553 96963 Gallente Propulsion Systems
+3416 96337 Shield Operation
+3413 96337 Power Grid Management
+3301 96337 Small Hybrid Turret
+3300 96337 Gunnery
+3426 96337 CPU Management
+3311 96337 Sharpshooter
+3455 96337 Warp Drive Operation
+3449 96337 Navigation
+3436 96337 Drones
+3328 96337 Gallente Frigate
+2495 96337 Interplanetary Consolidation
+2505 96337 Command Center Upgrades
+12187 96189 Jaspet Processing
+32445 95744 XL Cruise Missile Launcher I Blueprint
+20449 95744 Dual 1000mm Railgun I Blueprint
+20540 95744 XL Torpedo Launcher I Blueprint
+12196 95722 Scrapmetal Processing
+28655 95500 Warp Disruption Field Generator I Blueprint
+49100 95500 Zero-Point Mass Entangler Blueprint
+33467 95423 Customs Code Expertise
+3398 95422 Advanced Large Ship Construction
+3337 95390 Minmatar Battleship
+3307 95390 Large Hybrid Turret
+3315 95390 Surgical Strike
+3434 95390 Weapon Disruption
+3323 95390 Defender Missiles
+11433 95390 High Energy Physics
+24571 95390 Capital Shield Emission Systems
+3389 95390 Reprocessing Efficiency
+3395 95390 Advanced Small Ship Construction
+21718 95390 Hacking
+3309 95390 Large Energy Turret
+11443 95390 Hydromagnetic Physics
+3322 95390 Auto-Targeting Missiles
+3303 95390 Small Energy Turret
+33092 95390 Caldari Destroyer
+44067 95390 Invulnerability Core Operation
+3406 95390 Laboratory Operation
+3392 95390 Mechanics
+22807 95390 Explosive Armor Compensation
+3438 95390 Mining Drone Operation
+22806 95390 EM Armor Compensation
+3402 95390 Science
+22541 95390 Mining Drone Specialization
+3342 95390 Caldari Industrial
+12365 95390 EM Shield Compensation
+3403 95390 Research
+34327 95390 ORE Freighter
+22551 95390 Exhumers
+33002 95390 Radar Sensor Compensation
+24613 95390 Fighter Hangar Management
+11441 95390 Plasma Physics
+19760 95390 Frequency Modulation
+26259 95390 Hybrid Weapon Rigging
+45750 95390 Remote Reactions
+20533 95390 Capital Ships
+11529 95390 Molecular Engineering
+11566 95390 Thermal Shield Compensation
+26253 95390 Armor Rigging
+11574 95390 Wing Command
+3450 95390 Afterburner
+26254 95390 Astronautics Rigging
+33096 95390 Caldari Battlecruiser
+3335 95390 Amarr Cruiser
+26257 95390 Projectile Weapon Rigging
+3338 95390 Caldari Battleship
+12098 95390 Interdictors
+26255 95390 Drones Rigging
+43728 95390 Spatial Phenomena Generation
+3334 95390 Caldari Cruiser
+37798 95390 Structure Electronic Systems
+33097 95390 Gallente Battlecruiser
+37799 95390 Structure Engineering Systems
+37797 95390 Structure Doomsday Operation
+3405 95390 Biology
+3410 95390 Astrogeology
+33000 95390 Gravimetric Sensor Compensation
+3380 95390 Industry
+3317 95390 Trajectory Analysis
+11451 95390 Nuclear Physics
+33078 95390 Armor Layering
+3336 95390 Gallente Battleship
+3732 95390 Empire Control
+3393 95390 Repair Systems
+3409 95390 Metallurgy
+22761 95390 Recon Ships
+33098 95390 Minmatar Battlecruiser
+3435 95390 Propulsion Jamming
+3411 95390 Cybernetics
+22808 95390 Kinetic Armor Compensation
+3412 95390 Astrometrics
+43703 95390 Ice Harvesting Drone Specialization
+33093 95390 Gallente Destroyer
+2403 95390 Advanced Planetology
+3184 95390 ORE Industrial
+3302 95390 Small Projectile Turret
+3304 95390 Medium Hybrid Turret
+3305 95390 Medium Projectile Turret
+3306 95390 Medium Energy Turret
+3308 95390 Large Projectile Turret
+3310 95390 Rapid Firing
+3312 95390 Motion Prediction
+23594 95390 Sentry Drone Interfacing
+3316 95390 Controlled Bursts
+34390 95390 Amarr Tactical Destroyer
+3319 95390 Missile Launcher Operation
+3320 95390 Rockets
+11442 95390 Nanite Engineering
+13279 95390 Remote Sensing
+29637 95390 Industrial Command Ships
+23566 95390 Advanced Drone Avionics
+30325 95390 Core Subsystem Technology
+24764 95390 Fleet Command
+3452 95390 Acceleration Control
+3329 95390 Minmatar Frigate
+3339 95390 Amarr Battleship
+23069 95390 Fighters
+30652 95390 Gallente Strategic Cruiser
+26260 95390 Launcher Rigging
+33699 95390 Medium Drone Operation
+26256 95390 Electronic Superiority Rigging
+11454 95390 Caldari Starship Engineering
+12366 95390 Kinetic Shield Compensation
+12367 95390 Explosive Shield Compensation
+33091 95390 Amarr Destroyer
+13278 95390 Archaeology
+33094 95390 Minmatar Destroyer
+3451 95390 Fuel Conservation
+33001 95390 Ladar Sensor Compensation
+3345 95390 Minmatar Titan
+21059 95390 Shield Compensation
+3417 95390 Capacitor Systems Operation
+23618 95390 Drone Durability
+3340 95390 Gallente Industrial
+3427 95390 Electronic Warfare
+26261 95390 Shield Rigging
+3331 95390 Amarr Frigate
+11450 95390 Gallente Starship Engineering
+3321 95390 Light Missiles
+35680 95390 Caldari Tactical Destroyer
+3324 95390 Heavy Missiles
+3325 95390 Torpedoes
+3326 95390 Cruise Missiles
+3327 95390 Spaceship Command
+3330 95390 Caldari Frigate
+3332 95390 Gallente Cruiser
+3333 95390 Minmatar Cruiser
+3425 95390 Shield Upgrades
+3341 95390 Minmatar Industrial
+3343 95390 Amarr Industrial
+3344 95390 Gallente Titan
+24311 95390 Amarr Carrier
+3346 95390 Caldari Titan
+3347 95390 Amarr Titan
+3348 95390 Leadership
+24312 95390 Caldari Carrier
+30324 95390 Defensive Subsystem Technology
+3394 95390 Hull Upgrades
+17940 95390 Mining Barge
+22809 95390 Thermal Armor Compensation
+30651 95390 Caldari Strategic Cruiser
+3385 95390 Reprocessing
+3442 95390 Drone Interfacing
+26258 95390 Energy Weapon Rigging
+3429 95390 Target Management
+37615 95390 Command Destroyers
+19921 95390 Target Painting
+20494 95390 Armored Command
+4411 95390 Signature Masking
+3418 95390 Capacitor Management
+24241 95390 Light Drone Operation
+45748 95390 Mass Reactions
+45749 95390 Advanced Mass Reactions
+3355 95390 Social
+3428 95390 Long Range Targeting
+24313 95390 Gallente Carrier
+3363 95390 Corporation Management
+45746 95390 Reactions
+3368 95390 Diplomatic Relations
+19759 95390 Long Distance Jamming
+20495 95390 Information Command
+11452 95390 Mechanical Engineering
+25810 95390 Astrometric Pinpointing
+25811 95390 Astrometric Acquisition
+3387 95390 Mass Production
+3388 95390 Advanced Industry
+24314 95390 Minmatar Carrier
+3431 95390 Signature Analysis
+3433 95390 Sensor Linking
+3422 95390 Shield Emission Systems
+3437 95390 Drone Avionics
+11445 95390 Minmatar Starship Engineering
+43702 95390 Ice Harvesting Drone Operation
+23950 95390 Command Ships
+28374 95390 Capital Industrial Ships
+3440 95390 Salvage Drone Operation
+3441 95390 Heavy Drone Operation
+3453 95390 Evasive Maneuvering
+3454 95390 High Speed Maneuvering
+3551 95390 Survey
+4385 95390 Micro Jump Drive Operation
+11446 95390 Graviton Physics
+30650 95390 Amarr Strategic Cruiser
+2406 95390 Planetology
+25739 95390 Astrometric Rangefinding
+30653 95390 Minmatar Strategic Cruiser
+32797 95390 Resistance Phasing
+11444 95390 Amarr Starship Engineering
+11447 95390 Laser Physics
+11448 95390 Electromagnetic Physics
+11449 95390 Rocket Science
+11453 95390 Electronic Engineering
+26252 95390 Jury Rigging
+11455 95390 Quantum Physics
+34533 95390 Minmatar Tactical Destroyer
+27911 95390 Burst Projector Operation
+30327 95390 Offensive Subsystem Technology
+30788 95390 Propulsion Subsystem Technology
+32918 95390 Mining Frigate
+32999 95390 Magnetometric Sensor Compensation
+37796 95390 Structure Missile Systems
+33095 95390 Amarr Battlecruiser
+47445 95390 Flag Cruisers
+22578 95377 Mining Upgrades
+3386 95377 Mining
+35685 94989 Gallente Tactical Destroyer
+20210 94031 Light Missile Specialization
+21668 94031 XL Torpedoes
+32435 94031 XL Cruise Missiles
+20211 94031 Heavy Missile Specialization
+20209 94031 Rocket Specialization
+25718 94031 Heavy Assault Missile Specialization
+33271 91294 Survey Probe Launcher I Blueprint
+21071 90898 Rapid Launch
+20212 90898 Cruise Missile Specialization
+20213 90898 Torpedo Specialization
+25719 90898 Heavy Assault Missiles
+12441 90898 Missile Bombardment
+12442 90898 Missile Projection
+20312 90898 Guided Missile Precision
+20314 90898 Target Navigation Prediction
+20315 90898 Warhead Upgrades
+28073 90898 Bomb Deployment
+12487 88070 Caldari Drone Specialization
+20526 88070 Caldari Freighter
+20530 88070 Caldari Dreadnought
+25267 79977 Gas Cloud Harvester I Blueprint
+2551 66355 Plasma Command Center
+2549 66355 Lava Command Center
+2533 66355 Ice Command Center
+2525 66355 Oceanic Command Center
+2534 66355 Gas Command Center
+2254 66355 Temperate Command Center
+2524 66355 Barren Command Center
+2550 66355 Storm Command Center
+56205 49758 Tatara Upwell Quantum Core
+56201 49758 Astrahus Upwell Quantum Core
+56204 49758 Fortizar Upwell Quantum Core
+56202 49758 Athanor Upwell Quantum Core
+56203 49758 Raitaru Upwell Quantum Core
+56206 49758 Azbel Upwell Quantum Core
+3723 29625 Slaver Hound
+25233 29017 Corporation Contracting
+25235 28549 Contracting
+3443 28549 Trade
+3771 22375 Ectoplasm
+3729 20202 Toxic Waste
+30014 19889 Core Scanner Probe I Blueprint
+30029 19889 Combat Scanner Probe I Blueprint
+19719 19652 Transport Ships
+16622 19383 Accounting
+16594 19383 Procurement
+16597 19383 Advanced Broker Relations
+24242 19383 Infomorph Psychology
+16596 19383 Wholesale
+16598 19383 Marketing
+24268 19383 Supply Chain Management
+3447 19383 Visibility
+3396 19372 Advanced Industrial Ship Construction
+3444 19071 Retail
+16595 19071 Daytrading
+3446 19071 Broker Relations
+33407 19071 Advanced Infomorph Psychology
+18580 19071 Tycoon
+24270 19071 Scientific Networking
+33399 19071 Infomorph Synchronizing
+25544 12889 Gas Cloud Harvesting
+11135 10077 Amarr Shuttle Blueprint
+27925 10000 Void Bomb Blueprint
+3039 10000 Noctis Blueprint
+43910 10000 Porpoise Blueprint
+17481 10000 Procurer Blueprint
+17479 10000 Retriever Blueprint
+22536 10000 Mining Foreman
+32881 10000 Venture Blueprint
+11882 10000 R.Db - Khanid Innovation Blueprint
+22552 10000 Mining Director
+17477 10000 Covetor Blueprint
+28353 10000 Rorqual Blueprint
+11884 9996 R.Db - Viziam Blueprint
+27921 9996 Electron Bomb Blueprint
+11876 9996 R.Db - Boundless Creations Blueprint
+20531 9990 Gallente Dreadnought
+20527 9990 Gallente Freighter
+11883 9990 R.Db - Thukker Mix Blueprint
+11857 9990 R.Db - Roden Shipyards Blueprint
+11621 9990 Tracking Computer I Blueprint
+11632 9990 Radar ECM I Blueprint
+11877 9990 R.Db - Core Complexion Blueprint
+11628 9986 Magnetometric ECM I Blueprint
+31659 9984 Medium Projectile Ambit Extension I Blueprint
+31190 9984 Small Warp Core Optimizer I Blueprint
+26057 9984 Large Dynamic Fuel Valve I Blueprint
+34267 9984 Small Higgs Anchor I Blueprint
+34307 9984 Large Higgs Anchor I Blueprint
+31132 9984 Medium Dynamic Fuel Valve I Blueprint
+31142 9984 Small Engine Thermal Shielding I Blueprint
+31144 9984 Medium Engine Thermal Shielding I Blueprint
+31154 9984 Small Low Friction Nozzle Joints I Blueprint
+31156 9984 Medium Low Friction Nozzle Joints I Blueprint
+31160 9984 Small Hyperspatial Velocity Optimizer I Blueprint
+31162 9984 Medium Hyperspatial Velocity Optimizer I Blueprint
+31178 9984 Small Polycarbon Engine Housing I Blueprint
+31180 9984 Medium Polycarbon Engine Housing I Blueprint
+31192 9984 Medium Warp Core Optimizer I Blueprint
+31657 9984 Small Projectile Ambit Extension I Blueprint
+26049 9984 Large Projectile Collision Accelerator I Blueprint
+26039 9984 Large Projectile Ambit Extension I Blueprint
+31669 9984 Small Projectile Burst Aerator I Blueprint
+26041 9984 Large Projectile Locus Coordinator I Blueprint
+31671 9984 Medium Projectile Burst Aerator I Blueprint
+26043 9984 Large Projectile Metastasis Adjuster I Blueprint
+31681 9984 Small Projectile Collision Accelerator I Blueprint
+26047 9984 Large Projectile Burst Aerator I Blueprint
+31683 9984 Medium Projectile Collision Accelerator I Blueprint
+31693 9984 Small Projectile Locus Coordinator I Blueprint
+31695 9984 Medium Projectile Locus Coordinator I Blueprint
+26059 9984 Large Low Friction Nozzle Joints I Blueprint
+31705 9984 Small Projectile Metastasis Adjuster I Blueprint
+26061 9984 Large Auxiliary Thrusters I Blueprint
+31707 9984 Medium Projectile Metastasis Adjuster I Blueprint
+26063 9984 Large Engine Thermal Shielding I Blueprint
+26067 9984 Large Warp Core Optimizer I Blueprint
+26069 9984 Large Hyperspatial Velocity Optimizer I Blueprint
+26071 9984 Large Polycarbon Engine Housing I Blueprint
+31164 9984 Capital Hyperspatial Velocity Optimizer I Blueprint
+31661 9984 Capital Projectile Ambit Extension I Blueprint
+26073 9984 Large Cargohold Optimization I Blueprint
+31673 9984 Capital Projectile Burst Aerator I Blueprint
+31685 9984 Capital Projectile Collision Accelerator I Blueprint
+31697 9984 Capital Projectile Locus Coordinator I Blueprint
+31709 9984 Capital Projectile Metastasis Adjuster I Blueprint
+31120 9984 Medium Cargohold Optimization I Blueprint
+31134 9984 Capital Dynamic Fuel Valve I Blueprint
+31182 9984 Capital Polycarbon Engine Housing I Blueprint
+34309 9984 Capital Higgs Anchor I Blueprint
+31194 9984 Capital Warp Core Optimizer I Blueprint
+34269 9984 Medium Higgs Anchor I Blueprint
+31108 9984 Medium Auxiliary Thrusters I Blueprint
+31110 9984 Capital Auxiliary Thrusters I Blueprint
+31122 9984 Capital Cargohold Optimization I Blueprint
+31146 9984 Capital Engine Thermal Shielding I Blueprint
+31158 9984 Capital Low Friction Nozzle Joints I Blueprint
+31118 9984 Small Cargohold Optimization I Blueprint
+31106 9984 Small Auxiliary Thrusters I Blueprint
+31130 9984 Small Dynamic Fuel Valve I Blueprint
+11879 9982 R.Db - Duvolle Labs Blueprint
+12218 9978 Medium Remote Capacitor Transmitter I Blueprint
+12220 9978 Capital Remote Capacitor Transmitter I Blueprint
+12226 9978 Large Remote Capacitor Transmitter I Blueprint
+43547 9978 Armor Command Burst I Blueprint
+42876 9978 Rapid Repair Charge Blueprint
+42874 9978 Armor Energizing Charge Blueprint
+1196 9978 Cap Recharger I Blueprint
+42875 9978 Armor Reinforcement Charge Blueprint
+20524 9977 Amarr Freighter
+20525 9977 Amarr Dreadnought
+41367 9960 Cenobite I Blueprint
+23060 9960 Firbolg I Blueprint
+41376 9960 Equite I Blueprint
+41355 9960 Ametat I Blueprint
+23507 9960 Ogre SD-900 Blueprint
+41385 9960 Gram I Blueprint
+23511 9960 Praetor TD-900 Blueprint
+23710 9960 Medium Armor Maintenance Bot I Blueprint
+41369 9960 Scarab I Blueprint
+41373 9960 Dromi I Blueprint
+34594 9960 Entosis Link I Blueprint
+41371 9960 Siren I Blueprint
+23062 9960 Einherji I Blueprint
+12258 9960 Medium Energy Nosferatu I Blueprint
+12262 9960 Heavy Energy Nosferatu I Blueprint
+23528 9960 Drone Link Augmentor I Blueprint
+23534 9960 Omnidirectional Tracking Link I Blueprint
+32326 9960 Cyclops I Blueprint
+23730 9960 Valkyrie SW-600 Blueprint
+23562 9960 Garde I Blueprint
+23524 9960 Heavy Armor Maintenance Bot I Blueprint
+32341 9960 Malleus I Blueprint
+23660 9960 Acolyte EV-300 Blueprint
+23708 9960 Hornet EC-300 Blueprint
+23474 9960 Wasp EC-900 Blueprint
+41361 9960 Termite I Blueprint
+41363 9960 Antaeus I Blueprint
+41365 9960 Gungnir I Blueprint
+41379 9960 Locust I Blueprint
+41382 9960 Satyr I Blueprint
+20451 9960 Ion Siege Blaster I Blueprint
+32345 9960 Mantis I Blueprint
+23714 9960 Hammerhead SD-600 Blueprint
+23712 9960 Light Armor Maintenance Bot I Blueprint
+32343 9960 Tyrfing I Blueprint
+33823 9960 Omnidirectional Tracking Enhancer I Blueprint
+23718 9960 Medium Shield Maintenance Bot I Blueprint
+11878 9960 R.Db - CreoDron Blueprint
+27917 9960 Scorch Bomb Blueprint
+23706 9960 Vespa EC-600 Blueprint
+23564 9960 Bouncer I Blueprint
+23716 9960 Hobgoblin SD-300 Blueprint
+23720 9960 Light Shield Maintenance Bot I Blueprint
+23722 9960 Valkyrie TP-600 Blueprint
+23513 9960 Berserker TP-900 Blueprint
+33672 9960 Heavy Hull Maintenance Bot I Blueprint
+33705 9960 Medium Hull Maintenance Bot I Blueprint
+33707 9960 Light Hull Maintenance Bot I Blueprint
+23726 9960 Infiltrator TD-600 Blueprint
+23728 9960 Acolyte TD-300 Blueprint
+24284 9960 Fighter Support Unit I Blueprint
+24396 9960 Drone Navigation Computer I Blueprint
+23732 9960 Warrior SW-300 Blueprint
+23560 9960 Warden I Blueprint
+23703 9960 Infiltrator EV-600 Blueprint
+22573 9960 Praetor EV-900 Blueprint
+22766 9960 Heavy Shield Maintenance Bot I Blueprint
+23056 9960 Templar I Blueprint
+23058 9960 Dragonfly I Blueprint
+23526 9960 Curator I Blueprint
+23537 9960 Berserker SW-900 Blueprint
+23724 9960 Warrior TP-300 Blueprint
+11880 9960 R.Db - Carthum Conglomerate Blueprint
+25899 9957 Large Nanobot Accelerator I Blueprint
+31423 9957 Capital Algid Energy Administrations Unit I Blueprint
+31435 9957 Capital Energy Ambit Extension I Blueprint
+31447 9957 Capital Energy Burst Aerator I Blueprint
+31459 9957 Capital Energy Collision Accelerator I Blueprint
+31471 9957 Capital Energy Discharge Elutriation I Blueprint
+31483 9957 Capital Energy Locus Coordinator I Blueprint
+31495 9957 Capital Energy Metastasis Adjuster I Blueprint
+25897 9957 Large Auxiliary Nano Pump I Blueprint
+31493 9957 Medium Energy Metastasis Adjuster I Blueprint
+31076 9957 Capital Remote Repair Augmentor I Blueprint
+31002 9957 Capital EM Armor Reinforcer I Blueprint
+27065 9957 Capital Auxiliary Nano Pump I Blueprint
+31455 9957 Small Energy Collision Accelerator I Blueprint
+33899 9957 Large Transverse Bulkhead I Blueprint
+31024 9957 Medium Kinetic Armor Reinforcer I Blueprint
+25889 9957 Large Explosive Armor Reinforcer I Blueprint
+25893 9957 Large Thermal Armor Reinforcer I Blueprint
+31421 9957 Medium Algid Energy Administrations Unit I Blueprint
+25901 9957 Large Remote Repair Augmentor I Blueprint
+27069 9957 Small Remote Repair Augmentor I Blueprint
+30988 9957 Small Trimark Armor Pump I Blueprint
+30998 9957 Small EM Armor Reinforcer I Blueprint
+31000 9957 Medium EM Armor Reinforcer I Blueprint
+31010 9957 Small Explosive Armor Reinforcer I Blueprint
+31012 9957 Medium Explosive Armor Reinforcer I Blueprint
+31022 9957 Small Kinetic Armor Reinforcer I Blueprint
+31034 9957 Small Thermal Armor Reinforcer I Blueprint
+31036 9957 Medium Thermal Armor Reinforcer I Blueprint
+31046 9957 Small Auxiliary Nano Pump I Blueprint
+31048 9957 Medium Auxiliary Nano Pump I Blueprint
+31056 9957 Medium Trimark Armor Pump I Blueprint
+31064 9957 Small Nanobot Accelerator I Blueprint
+31066 9957 Medium Nanobot Accelerator I Blueprint
+31074 9957 Medium Remote Repair Augmentor I Blueprint
+31084 9957 Small Salvage Tackle I Blueprint
+31086 9957 Medium Salvage Tackle I Blueprint
+25969 9957 Large Energy Discharge Elutriation I Blueprint
+25975 9957 Large Energy Metastasis Adjuster I Blueprint
+25977 9957 Large Algid Energy Administrations Unit I Blueprint
+25971 9957 Large Energy Ambit Extension I Blueprint
+25973 9957 Large Energy Locus Coordinator I Blueprint
+33891 9957 Small Transverse Bulkhead I Blueprint
+25981 9957 Large Energy Collision Accelerator I Blueprint
+33895 9957 Medium Transverse Bulkhead I Blueprint
+33903 9957 Capital Transverse Bulkhead I Blueprint
+25737 9957 Large EM Armor Reinforcer I Blueprint
+25891 9957 Large Kinetic Armor Reinforcer I Blueprint
+25895 9957 Large Trimark Armor Pump I Blueprint
+25903 9957 Large Salvage Tackle I Blueprint
+30994 9957 Capital Trimark Armor Pump I Blueprint
+31014 9957 Capital Explosive Armor Reinforcer I Blueprint
+31026 9957 Capital Kinetic Armor Reinforcer I Blueprint
+31038 9957 Capital Thermal Armor Reinforcer I Blueprint
+31068 9957 Capital Nanobot Accelerator I Blueprint
+31088 9957 Capital Salvage Tackle I Blueprint
+25979 9957 Large Energy Burst Aerator I Blueprint
+31467 9957 Small Energy Discharge Elutriation I Blueprint
+31419 9957 Small Algid Energy Administrations Unit I Blueprint
+31431 9957 Small Energy Ambit Extension I Blueprint
+31433 9957 Medium Energy Ambit Extension I Blueprint
+31443 9957 Small Energy Burst Aerator I Blueprint
+31457 9957 Medium Energy Collision Accelerator I Blueprint
+31469 9957 Medium Energy Discharge Elutriation I Blueprint
+31479 9957 Small Energy Locus Coordinator I Blueprint
+31481 9957 Medium Energy Locus Coordinator I Blueprint
+31491 9957 Small Energy Metastasis Adjuster I Blueprint
+31445 9957 Medium Energy Burst Aerator I Blueprint
+25921 9947 Large Sentry Damage Augmentor I Blueprint
+31323 9947 Small Targeting System Subcontroller I Blueprint
+33299 9947 Capital Drone Speed Augmentor I Blueprint
+31543 9947 Capital Hybrid Collision Accelerator I Blueprint
+33308 9947 Capital Sentry Damage Augmentor I Blueprint
+33312 9947 Capital Stasis Drone Augmentor I Blueprint
+31327 9947 Capital Targeting System Subcontroller I Blueprint
+31339 9947 Capital Targeting Systems Stabilizer I Blueprint
+31565 9947 Medium Hybrid Locus Coordinator I Blueprint
+31375 9947 Capital Capacitor Control Circuit I Blueprint
+31387 9947 Capital Egress Port Maximizer I Blueprint
+31399 9947 Capital Powergrid Subroutine Maximizer I Blueprint
+25915 9947 Large Drone Speed Augmentor I Blueprint
+31263 9947 Small Inverted Signal Field Projector I Blueprint
+33294 9947 Capital Drone Scope Chip I Blueprint
+31577 9947 Medium Hybrid Metastasis Adjuster I Blueprint
+31279 9947 Capital Ionic Field Projector I Blueprint
+31315 9947 Capital Signal Focusing Kit I Blueprint
+31363 9947 Capital Ancillary Current Router I Blueprint
+31335 9947 Small Targeting Systems Stabilizer I Blueprint
+31411 9947 Capital Semiconductor Memory Cell I Blueprint
+31503 9947 Small Algid Hybrid Administrations Unit I Blueprint
+31265 9947 Medium Inverted Signal Field Projector I Blueprint
+25925 9947 Large Stasis Drone Augmentor I Blueprint
+31507 9947 Capital Algid Hybrid Administrations Unit I Blueprint
+31519 9947 Capital Hybrid Ambit Extension I Blueprint
+31551 9947 Small Hybrid Discharge Elutriation I Blueprint
+31531 9947 Capital Hybrid Burst Aerator I Blueprint
+31555 9947 Capital Hybrid Discharge Elutriation I Blueprint
+31567 9947 Capital Hybrid Locus Coordinator I Blueprint
+31579 9947 Capital Hybrid Metastasis Adjuster I Blueprint
+31277 9947 Medium Ionic Field Projector I Blueprint
+31505 9947 Medium Algid Hybrid Administrations Unit I Blueprint
+31287 9947 Small Particle Dispersion Augmentor I Blueprint
+31289 9947 Medium Particle Dispersion Augmentor I Blueprint
+31301 9947 Medium Particle Dispersion Projector I Blueprint
+31311 9947 Small Signal Focusing Kit I Blueprint
+31313 9947 Medium Signal Focusing Kit I Blueprint
+31527 9947 Small Hybrid Burst Aerator I Blueprint
+31299 9947 Small Particle Dispersion Projector I Blueprint
+31575 9947 Small Hybrid Metastasis Adjuster I Blueprint
+26007 9947 Large Hybrid Burst Aerator I Blueprint
+31553 9947 Medium Hybrid Discharge Elutriation I Blueprint
+31275 9947 Small Ionic Field Projector I Blueprint
+31325 9947 Medium Targeting System Subcontroller I Blueprint
+31347 9947 Small Tracking Diagnostic Subroutines I Blueprint
+31349 9947 Medium Tracking Diagnostic Subroutines I Blueprint
+32028 9947 Medium Drone Control Range Augmentor I Blueprint
+32044 9947 Medium Drone Mining Augmentor I Blueprint
+26009 9947 Large Hybrid Collision Accelerator I Blueprint
+32026 9947 Small Drone Control Range Augmentor I Blueprint
+32034 9947 Small Drone Durability Enhancer I Blueprint
+32036 9947 Medium Drone Durability Enhancer I Blueprint
+32042 9947 Small Drone Mining Augmentor I Blueprint
+32092 9947 Medium Stasis Drone Augmentor I Blueprint
+31337 9947 Medium Targeting Systems Stabilizer I Blueprint
+31517 9947 Medium Hybrid Ambit Extension I Blueprint
+25997 9947 Large Hybrid Discharge Elutriation I Blueprint
+26001 9947 Large Hybrid Locus Coordinator I Blueprint
+26003 9947 Large Hybrid Metastasis Adjuster I Blueprint
+32050 9947 Small Drone Repair Augmentor I Blueprint
+32052 9947 Medium Drone Repair Augmentor I Blueprint
+32058 9947 Small Drone Speed Augmentor I Blueprint
+32060 9947 Medium Drone Speed Augmentor I Blueprint
+32070 9947 Small Drone Scope Chip I Blueprint
+32072 9947 Medium Drone Scope Chip I Blueprint
+32082 9947 Small Sentry Damage Augmentor I Blueprint
+32084 9947 Medium Sentry Damage Augmentor I Blueprint
+32090 9947 Small Stasis Drone Augmentor I Blueprint
+25917 9947 Large Drone Durability Enhancer I Blueprint
+31529 9947 Medium Hybrid Burst Aerator I Blueprint
+25999 9947 Large Hybrid Ambit Extension I Blueprint
+26005 9947 Large Algid Hybrid Administrations Unit I Blueprint
+31539 9947 Small Hybrid Collision Accelerator I Blueprint
+33278 9947 Capital Drone Control Range Augmentor I Blueprint
+33282 9947 Capital Drone Durability Enhancer I Blueprint
+33286 9947 Capital Drone Mining Augmentor I Blueprint
+33290 9947 Capital Drone Repair Augmentor I Blueprint
+31515 9947 Small Hybrid Ambit Extension I Blueprint
+26097 9947 Large Targeting Systems Stabilizer I Blueprint
+25911 9947 Large Drone Repair Augmentor I Blueprint
+25919 9947 Large Drone Mining Augmentor I Blueprint
+25909 9947 Large Drone Control Range Augmentor I Blueprint
+25913 9947 Large Drone Scope Chip I Blueprint
+31563 9947 Small Hybrid Locus Coordinator I Blueprint
+26103 9947 Large Ionic Field Projector I Blueprint
+26101 9947 Large Targeting System Subcontroller I Blueprint
+26105 9947 Large Signal Focusing Kit I Blueprint
+31541 9947 Medium Hybrid Collision Accelerator I Blueprint
+11612 9900 Heat Sink I Blueprint
+4394 9900 Drone Damage Amplifier I Blueprint
+21022 9895 Capital Power Generator Blueprint
+11133 9883 Minmatar Shuttle Blueprint
+1096 9877 Gyrostabilizer I Blueprint
+42888 9877 Rapid Deployment Charge Blueprint
+43546 9877 Skirmish Command Burst I Blueprint
+42887 9877 Interdiction Maneuvers Charge Blueprint
+42886 9877 Evasive Maneuvers Charge Blueprint
+11634 9874 Signal Amplifier I Blueprint
+58955 9864 Interdiction Nullifier I Blueprint
+21012 9863 Capital Turret Hardpoint Blueprint
+40338 9862 Guidance Disruptor I Blueprint
+11614 9862 Tracking Disruptor I Blueprint
+2604 9852 Nanofiber Internal Structure I Blueprint
+1318 9852 Expanded Cargohold I Blueprint
+1334 9852 Reinforced Bulkheads I Blueprint
+1404 9852 Inertial Stabilizers I Blueprint
+1245 9852 Overdrive Injector System I Blueprint
+11881 9844 R.Db - Kaalakiota Blueprint
+11620 9844 Sensor Booster I Blueprint
+11803 9844 Remote Sensor Dampener I Blueprint
+44103 9838 Defender Launcher I Blueprint
+11619 9810 Co-Processor I Blueprint
+1208 9807 Auto Targeting System I Blueprint
+27919 9794 Shrapnel Bomb Blueprint
+11885 9780 R.Db - Ishukone Blueprint
+11617 9768 Remote Tracking Computer I Blueprint
+43548 9758 Information Command Burst I Blueprint
+42878 9758 Electronic Superiority Charge Blueprint
+42877 9758 Electronic Hardening Charge Blueprint
+42879 9758 Sensor Optimization Charge Blueprint
+56749 9755 Stasis Webification Probe Blueprint
+27915 9751 Bomb Launcher I Blueprint
+21014 9740 Capital Sensor Cluster Blueprint
+41412 9737 Networked Sensor Array Blueprint
+3994 9737 Large EMP Smartbomb I Blueprint
+9945 9737 Magnetic Field Stabilizer I Blueprint
+21040 9737 Capital Siege Array Blueprint
+11613 9737 Warp Core Stabilizer I Blueprint
+28653 9737 Covert Jump Portal Generator I Blueprint
+21604 9737 Cynosural Field Generator I Blueprint
+28647 9737 Covert Cynosural Field Generator I Blueprint
+52695 9737 Industrial Cynosural Field Generator Blueprint
+11886 9720 R.Db - Lai Dai Blueprint
+11631 9711 Gravimetric ECM I Blueprint
+26107 9700 Large Particle Dispersion Augmentor I Blueprint
+31599 9700 Small Hydraulic Bay Thrusters I Blueprint
+31821 9700 Capital Core Defense Operational Solidifier I Blueprint
+31587 9700 Small Bay Loading Accelerator I Blueprint
+31291 9700 Capital Particle Dispersion Augmentor I Blueprint
+31589 9700 Medium Bay Loading Accelerator I Blueprint
+31303 9700 Capital Particle Dispersion Projector I Blueprint
+31767 9700 Medium Core Defense Capacitor Safeguard I Blueprint
+31601 9700 Medium Hydraulic Bay Thrusters I Blueprint
+31351 9700 Capital Tracking Diagnostic Subroutines I Blueprint
+31609 9700 Small Rocket Fuel Cache Partition I Blueprint
+31611 9700 Medium Rocket Fuel Cache Partition I Blueprint
+31717 9700 Small EM Shield Reinforcer I Blueprint
+31621 9700 Small Warhead Calefaction Catalyst I Blueprint
+31623 9700 Medium Warhead Calefaction Catalyst I Blueprint
+31633 9700 Small Warhead Flare Catalyst I Blueprint
+31635 9700 Medium Warhead Flare Catalyst I Blueprint
+31645 9700 Small Warhead Rigor Catalyst I Blueprint
+26077 9700 Large EM Shield Reinforcer I Blueprint
+31719 9700 Medium EM Shield Reinforcer I Blueprint
+31649 9700 Capital Warhead Rigor Catalyst I Blueprint
+31731 9700 Medium Explosive Shield Reinforcer I Blueprint
+31741 9700 Small Kinetic Shield Reinforcer I Blueprint
+31805 9700 Capital Core Defense Field Purger I Blueprint
+31743 9700 Medium Kinetic Shield Reinforcer I Blueprint
+31625 9700 Capital Warhead Calefaction Catalyst I Blueprint
+31721 9700 Capital EM Shield Reinforcer I Blueprint
+31753 9700 Small Thermal Shield Reinforcer I Blueprint
+31647 9700 Medium Warhead Rigor Catalyst I Blueprint
+31591 9700 Capital Bay Loading Accelerator I Blueprint
+31603 9700 Capital Hydraulic Bay Thrusters I Blueprint
+31613 9700 Capital Rocket Fuel Cache Partition I Blueprint
+26031 9700 Large Warhead Calefaction Catalyst I Blueprint
+31637 9700 Capital Warhead Flare Catalyst I Blueprint
+31729 9700 Small Explosive Shield Reinforcer I Blueprint
+31769 9700 Capital Core Defense Capacitor Safeguard I Blueprint
+31817 9700 Small Core Defense Operational Solidifier I Blueprint
+31755 9700 Medium Thermal Shield Reinforcer I Blueprint
+31745 9700 Capital Kinetic Shield Reinforcer I Blueprint
+31765 9700 Small Core Defense Capacitor Safeguard I Blueprint
+31757 9700 Capital Thermal Shield Reinforcer I Blueprint
+31777 9700 Small Core Defense Charge Economizer I Blueprint
+31781 9700 Capital Core Defense Charge Economizer I Blueprint
+31779 9700 Medium Core Defense Charge Economizer I Blueprint
+31793 9700 Capital Core Defense Field Extender I Blueprint
+31789 9700 Small Core Defense Field Extender I Blueprint
+31791 9700 Medium Core Defense Field Extender I Blueprint
+26029 9700 Large Warhead Flare Catalyst I Blueprint
+31801 9700 Small Core Defense Field Purger I Blueprint
+31803 9700 Medium Core Defense Field Purger I Blueprint
+31819 9700 Medium Core Defense Operational Solidifier I Blueprint
+26017 9700 Large Hydraulic Bay Thrusters I Blueprint
+31733 9700 Capital Explosive Shield Reinforcer I Blueprint
+26089 9700 Large Core Defense Field Extender I Blueprint
+26087 9700 Large Core Defense Operational Solidifier I Blueprint
+26111 9700 Large Inverted Signal Field Projector I Blueprint
+26079 9700 Large Explosive Shield Reinforcer I Blueprint
+26083 9700 Large Thermal Shield Reinforcer I Blueprint
+26109 9700 Large Particle Dispersion Projector I Blueprint
+26085 9700 Large Core Defense Field Purger I Blueprint
+26113 9700 Large Tracking Diagnostic Subroutines I Blueprint
+25907 9700 Large Core Defense Capacitor Safeguard I Blueprint
+26021 9700 Large Warhead Rigor Catalyst I Blueprint
+26027 9700 Large Bay Loading Accelerator I Blueprint
+26023 9700 Large Rocket Fuel Cache Partition I Blueprint
+26091 9700 Large Core Defense Charge Economizer I Blueprint
+26081 9700 Large Kinetic Shield Reinforcer I Blueprint
+31267 9700 Capital Inverted Signal Field Projector I Blueprint
+11629 9698 Multispectral ECM I Blueprint
+25562 9698 Signal Distortion Amplifier I Blueprint
+3359 9684 Connections
+3356 9684 Negotiation
+3358 9684 Fast Talk
+43545 9657 Shield Command Burst I Blueprint
+21042 9657 Capital Launcher Hardpoint Blueprint
+42885 9657 Shield Harmonizing Charge Blueprint
+42884 9657 Shield Extension Charge Blueprint
+42883 9657 Active Shielding Charge Blueprint
+11630 9656 Ladar ECM I Blueprint
+1100 9644 Small Hull Repairer I Blueprint
+3361 9623 Criminal Connections
+3354 9623 Command Burst Specialist
+12179 9623 Research Project Management
+12241 9623 Sovereignty
+24568 9623 Capital Remote Armor Repair Systems
+24606 9623 Cloning Facility Operation
+24624 9623 Advanced Laboratory Operation
+24625 9623 Advanced Mass Production
+27906 9623 Tactical Logistics Reconfiguration
+27936 9623 Capital Remote Hull Repair Systems
+29029 9612 Jump Freighters
+33177 9598 Scan Acquisition Array I Blueprint
+33179 9598 Scan Pinpointing Array I Blueprint
+33181 9598 Scan Rangefinding Array I Blueprint
+33590 9598 Mobile Scan Inhibitor Blueprint
+12266 9593 Medium Energy Neutralizer I Blueprint
+22779 9593 Warp Disrupt Probe Blueprint
+12270 9593 Heavy Energy Neutralizer I Blueprint
+3607 9586 Large Remote Shield Booster I Blueprint
+3617 9586 Capital Remote Shield Booster I Blueprint
+3587 9586 Small Remote Shield Booster I Blueprint
+3597 9586 Medium Remote Shield Booster I Blueprint
+967 9538 Caldari Shuttle Blueprint
+27923 9520 Lockbreaker Bomb Blueprint
+27913 9520 Concussion Bomb Blueprint
+11579 9504 Cloaking
+3357 9483 Diplomacy
+28667 9482 Marauders
+12093 9482 Covert Ops
+28609 9482 Heavy Interdiction Cruisers
+33856 9482 Expedition Frigates
+28615 9482 Electronic Attack Ships
+28656 9482 Black Ops
+11616 9474 Tracking Enhancer I Blueprint
+32982 9473 Salvage Drone I Blueprint
+1218 9473 Civilian Mining Drone Blueprint
+3351 9467 Shield Command Specialist
+11569 9467 Armored Command Specialist
+11572 9467 Skirmish Command Specialist
+3350 9467 Shield Command
+40572 9467 Light Fighters
+3352 9467 Information Command Specialist
+32339 9467 Heavy Fighters
+3349 9467 Skirmish Command
+41537 9467 Doomsday Rapid Firing
+27902 9467 Remote Hull Repair Systems
+24562 9467 Jump Portal Generation
+28585 9467 Industrial Reconfiguration
+40573 9467 Support Fighters
+11207 9467 Advanced Weapon Upgrades
+11130 9404 Gallente Shuttle Blueprint
+2047 9400 Damage Control I Blueprint
+47259 9400 Assault Damage Control I Blueprint
+20528 9364 Minmatar Freighter
+20532 9364 Minmatar Dreadnought
+18055 9302 Mercoxit Mining Crystal I Blueprint
+18057 9302 Omber Mining Crystal I Blueprint
+18061 9302 Pyroxeres Mining Crystal I Blueprint
+18065 9302 Spodumain Mining Crystal I Blueprint
+18067 9302 Veldspar Mining Crystal I Blueprint
+18059 9302 Plagioclase Mining Crystal I Blueprint
+18063 9302 Scordite Mining Crystal I Blueprint
+46350 9302 Ubiquitous Moon Ore Mining Crystal I Blueprint
+46352 9302 Common Moon Ore Mining Crystal I Blueprint
+46357 9302 Uncommon Moon Ore Mining Crystal I Blueprint
+46359 9302 Rare Moon Ore Mining Crystal I Blueprint
+18047 9302 Hedbergite Mining Crystal I Blueprint
+18049 9302 Hemorphite Mining Crystal I Blueprint
+46361 9302 Exceptional Moon Ore Mining Crystal I Blueprint
+18045 9302 Gneiss Mining Crystal I Blueprint
+18037 9302 Arkonor Mining Crystal I Blueprint
+18039 9302 Bistot Mining Crystal I Blueprint
+18051 9302 Jaspet Mining Crystal I Blueprint
+18053 9302 Kernite Mining Crystal I Blueprint
+18043 9270 Dark Ochre Mining Crystal I Blueprint
+18041 9182 Crokite Mining Crystal I Blueprint
+41409 9080 XL Torpedo Specialization
+41410 9080 XL Cruise Missile Specialization
+47226 8867 Standup Scarab I Blueprint
+47213 8867 Standup Equite I Blueprint
+47208 8867 Standup Templar I Blueprint
+47210 8867 Standup Firbolg I Blueprint
+47243 8867 Standup Termite I Blueprint
+47230 8867 Standup Dromi I Blueprint
+47211 8867 Standup Einherji I Blueprint
+47228 8867 Standup Siren I Blueprint
+47209 8867 Standup Dragonfly I Blueprint
+47247 8867 Standup Gungnir I Blueprint
+47216 8867 Standup Locust I Blueprint
+47219 8867 Standup Satyr I Blueprint
+47222 8867 Standup Gram I Blueprint
+47224 8867 Standup Cenobite I Blueprint
+47233 8867 Standup Cyclops I Blueprint
+47236 8867 Standup Mantis I Blueprint
+47245 8867 Standup Antaeus I Blueprint
+47241 8867 Standup Ametat I Blueprint
+47234 8867 Standup Malleus I Blueprint
+47235 8867 Standup Tyrfing I Blueprint
+56734 6873 Tactical Capsuleer Recloner Blueprint
+23736 6805 Clone Vat Bay I Blueprint
+42881 5000 Mining Laser Field Enhancement Charge Blueprint
+43544 5000 Mining Foreman Burst I Blueprint
+42889 5000 Pulse Activated Nexus Invulnerability Core Blueprint
+42880 5000 Mining Equipment Preservation Charge Blueprint
+42882 5000 Mining Laser Optimization Charge Blueprint
+56207 4958 Keepstar Upwell Quantum Core
+56208 4958 Sotiyo Upwell Quantum Core
+46165 4854 C3-FTM Acid Reaction Formula
+46159 4854 PPD Fullerene Fibers Reaction Formula
+46164 4854 Carbon-86 Epoxy Resin Reaction Formula
+46161 4854 Lanthanum Metallofullerene Reaction Formula
+46163 4854 Graphene Nanoribbons Reaction Formula
+46157 4854 Methanofullerene Reaction Formula
+46158 4854 Fulleroferrocene Reaction Formula
+46160 4854 Fullerene Intercalated Graphite Reaction Formula
+46162 4854 Scandium Metallofullerene Reaction Formula
+57499 4395 Sense-Heuristic Neurolink Enhancer Reaction Formula
+57495 4395 Meta-Operant Neurolink Enhancer Reaction Formula
+57504 4395 Reaction-Orienting Neurolink Stabilizer Reaction Formula
+57505 4395 Stress-Responding Neurolink Stabilizer Reaction Formula
+57506 4395 Goal-Orienting Neurolink Stabilizer Reaction Formula
+57507 4395 U-C Trigger Neurolink Conduit Blueprint
+57508 4395 R-O Trigger Neurolink Conduit Blueprint
+57509 4395 S-R Trigger Neurolink Conduit Blueprint
+57510 4395 G-O Trigger Neurolink Conduit Blueprint
+57490 4395 Carbon Fiber Reaction Formula
+57491 4395 Oxy-Organic Solvents Reaction Formula
+57496 4395 Hypnagogic Neurolink Enhancer Reaction Formula
+57497 4395 Axosomatic Neurolink Enhancer Reaction Formula
+57498 4395 Cogni-Emotive Neurolink Enhancer Reaction Formula
+57500 4395 Isotropic Neofullerene Alpha-3 Reaction Formula
+57501 4395 Isotropic Neofullerene Beta-6 Reaction Formula
+57502 4395 Isotropic Neofullerene Gamma-9 Reaction Formula
+57503 4395 Ultradian-Cycling Neurolink Stabilizer Reaction Formula
+57492 4395 Pressurized Oxidizers Reaction Formula
+57493 4395 Reinforced Carbon Fiber Reaction Formula
+57494 4395 Thermosetting Polymer Reaction Formula
+46197 4358 Unrefined Ferrofluid Reaction Formula
+46198 4358 Unrefined Prometium Reaction Formula
+46199 4358 Unrefined Neo Mercurite Reaction Formula
+46200 4358 Unrefined Dysporite Reaction Formula
+46201 4358 Unrefined Fluxed Condensates Reaction Formula
+46202 4358 Unrefined Thulium Hafnite Reaction Formula
+46203 4358 Unrefined Promethium Mercurite Reaction Formula
+46204 4358 Titanium Carbide Reaction Formula
+46205 4358 Crystalline Carbonide Reaction Formula
+46206 4358 Fernite Carbide Reaction Formula
+46207 4358 Tungsten Carbide Reaction Formula
+46179 4358 Silicon Diborite Reaction Formula
+46208 4358 Sylramic Fibers Reaction Formula
+46209 4358 Fulleride Reaction Formula
+46210 4358 Phenolic Composites Reaction Formula
+46211 4358 Nanotransistors Reaction Formula
+46212 4358 Hypersynaptic Fibers Reaction Formula
+46178 4358 Rolled Tungsten Alloy Reaction Formula
+46172 4358 Ferrofluid Reaction Formula
+46217 4358 Photonic Metamaterials Reaction Formula
+46180 4358 Solerium Reaction Formula
+46168 4358 Ceramic Powder Reaction Formula
+46214 4358 Fermionic Condensates Reaction Formula
+46169 4358 Crystallite Alloy Reaction Formula
+46215 4358 Plasmonic Metamaterials Reaction Formula
+46192 4358 Unrefined Rolled Tungsten Alloy Reaction Formula
+46193 4358 Unrefined Titanium Chromide Reaction Formula
+46173 4358 Fluxed Condensates Reaction Formula
+46174 4358 Hexite Reaction Formula
+46185 4358 Thulium Hafnite Reaction Formula
+46175 4358 Hyperflurite Reaction Formula
+46181 4358 Sulfuric Acid Reaction Formula
+46176 4358 Neo Mercurite Reaction Formula
+46177 4358 Platinum Technite Reaction Formula
+46194 4358 Unrefined Fernite Alloy Reaction Formula
+46190 4358 Unrefined Caesarium Cadmide Reaction Formula
+46167 4358 Carbon Polymers Reaction Formula
+46182 4358 Titanium Chromide Reaction Formula
+46218 4358 Nonlinear Metamaterials Reaction Formula
+46216 4358 Terahertz Metamaterials Reaction Formula
+46166 4358 Caesarium Cadmide Reaction Formula
+46187 4358 Unrefined Vanadium Hafnite Reaction Formula
+46196 4358 Unrefined Hyperflurite Reaction Formula
+46213 4358 Ferrogel Reaction Formula
+46170 4358 Dysporite Reaction Formula
+46195 4358 Unrefined Crystallite Alloy Reaction Formula
+46189 4358 Unrefined Solerium Reaction Formula
+46191 4358 Unrefined Hexite Reaction Formula
+46183 4358 Vanadium Hafnite Reaction Formula
+46184 4358 Prometium Reaction Formula
+46186 4358 Promethium Mercurite Reaction Formula
+46188 4358 Unrefined Platinum Technite Reaction Formula
+46171 4358 Fernite Alloy Reaction Formula
+41438 3940 Gravitational Transportation Field Oscillator Blueprint
+41532 3940 Bosonic Field Generator Blueprint
+57317 3294 Fleet Formations
+57318 3294 Fleet Coordination
+12095 1930 Assault Frigates
+40328 1930 Logistics Frigates
+16591 1929 Heavy Assault Cruisers
+33304 1890 Capital Processor Overclocking Unit I Blueprint
+26930 1890 Small Processor Overclocking Unit I Blueprint
+4396 1890 Medium Processor Overclocking Unit I Blueprint
+4398 1890 Large Processor Overclocking Unit I Blueprint
+32818 1850 Medium Mercoxit Mining Crystal Optimization I Blueprint
+32820 1850 Medium Ice Harvester Accelerator I Blueprint
+11082 1836 Small Railgun Specialization
+41406 1836 Capital Railgun Specialization
+21666 1836 Capital Hybrid Turret
+12206 1836 Medium Railgun Specialization
+12207 1836 Large Railgun Specialization
+28607 1830 Orca Blueprint
+31241 1635 Medium Memetic Algorithm Bank I Blueprint
+11859 1635 R.A.M.- Energy Tech Blueprint
+11870 1635 R.A.M.- Electronics Blueprint
+11872 1635 R.A.M.- Ammunition Tech Blueprint
+11873 1635 R.A.M.- Armor/Hull Tech Blueprint
+11887 1635 R.A.M.- Robotics Blueprint
+11889 1635 R.A.M.- Shield Tech Blueprint
+11890 1635 R.A.M.- Starship Tech Blueprint
+11891 1635 R.A.M.- Weapon Tech Blueprint
+31251 1635 Small Signal Disruption Amplifier I Blueprint
+25949 1635 Large Capacitor Control Circuit I Blueprint
+25937 1635 Large Gravity Capacitor Upgrade I Blueprint
+31218 1635 Capital Gravity Capacitor Upgrade I Blueprint
+31204 1635 Medium Emission Scope Sharpener I Blueprint
+31202 1635 Small Emission Scope Sharpener I Blueprint
+25929 1635 Large Signal Disruption Amplifier I Blueprint
+31373 1635 Medium Capacitor Control Circuit I Blueprint
+31359 1635 Small Ancillary Current Router I Blueprint
+31361 1635 Medium Ancillary Current Router I Blueprint
+31371 1635 Small Capacitor Control Circuit I Blueprint
+43904 1635 Medium Command Processor I Blueprint
+43902 1635 Small Command Processor I Blueprint
+31397 1635 Medium Powergrid Subroutine Maximizer I Blueprint
+31383 1635 Small Egress Port Maximizer I Blueprint
+31214 1635 Small Gravity Capacitor Upgrade I Blueprint
+25955 1635 Large Semiconductor Memory Cell I Blueprint
+31385 1635 Medium Egress Port Maximizer I Blueprint
+31216 1635 Medium Gravity Capacitor Upgrade I Blueprint
+43906 1635 Large Command Processor I Blueprint
+25931 1635 Large Emission Scope Sharpener I Blueprint
+31395 1635 Small Powergrid Subroutine Maximizer I Blueprint
+31227 1635 Small Liquid Cooled Electronics I Blueprint
+43908 1635 Capital Command Processor I Blueprint
+25933 1635 Large Memetic Algorithm Bank I Blueprint
+31253 1635 Medium Signal Disruption Amplifier I Blueprint
+31255 1635 Capital Signal Disruption Amplifier I Blueprint
+25951 1635 Large Egress Port Maximizer I Blueprint
+31243 1635 Capital Memetic Algorithm Bank I Blueprint
+25953 1635 Large Powergrid Subroutine Maximizer I Blueprint
+25935 1635 Large Liquid Cooled Electronics I Blueprint
+31409 1635 Medium Semiconductor Memory Cell I Blueprint
+31229 1635 Medium Liquid Cooled Electronics I Blueprint
+31407 1635 Small Semiconductor Memory Cell I Blueprint
+31206 1635 Capital Emission Scope Sharpener I Blueprint
+31231 1635 Capital Liquid Cooled Electronics I Blueprint
+25957 1635 Large Ancillary Current Router I Blueprint
+37083 1628 Standup Weapon Disruptor I Blueprint
+37087 1628 Standup Focused Warp Disruptor I Blueprint
+44044 1628 Standup M-Set Basic Capital Component Manufacturing Time Efficiency I Blueprint
+37378 1628 Standup M-Set Missile Precision I Blueprint
+37380 1628 Standup M-Set Missile Projection I Blueprint
+37048 1628 Standup Multirole Missile Launcher I Blueprint
+44090 1628 Standup L-Set Invention Optimization I Blueprint
+37382 1628 Standup M-Set Energy Neutralizer Projection I Blueprint
+37541 1628 Standup Signal Amplifier I Blueprint
+37384 1628 Standup M-Set Energy Neutralizer Economy I Blueprint
+44038 1628 Standup M-Set Advanced Component Manufacturing Material Efficiency I Blueprint
+37390 1628 Standup M-Set Electronic Warfare Projection I Blueprint
+37392 1628 Standup M-Set Electronic Warfare Economy I Blueprint
+44046 1628 Standup M-Set Structure Manufacturing Material Efficiency I Blueprint
+37030 1628 Standup Arcing Vorton Projector I Blueprint
+47112 1628 Standup Stasis Webification Burst Projector Blueprint
+37394 1628 Standup M-Set Structure Target Multiplexing I Blueprint
+37396 1628 Standup M-Set Enhanced Targeting System I Blueprint
+37410 1628 Standup L-Set Missile Flight Processor I Blueprint
+37413 1628 Standup L-Set Energy Neutralizer Feedback Control I Blueprint
+44048 1628 Standup M-Set Structure Manufacturing Time Efficiency I Blueprint
+37417 1628 Standup L-Set EW Command System I Blueprint
+37419 1628 Standup L-Set Bomb Aimer I Blueprint
+37421 1628 Standup L-Set Point Defense Battery Control I Blueprint
+44040 1628 Standup M-Set Advanced Component Manufacturing Time Efficiency I Blueprint
+46508 1628 Standup M-Set Composite Reactor Material Efficiency I Blueprint
+37008 1628 Standup Guided Bomb Launcher I Blueprint
+44074 1628 Standup L-Set Advanced Medium Ship Manufacturing Efficiency I Blueprint
+37081 1628 Standup Target Painter I Blueprint
+37437 1628 Standup XL-Set Extinction Level Weapons Suite I Blueprint
+37857 1628 Standup Light Missile Blueprint
+37431 1628 Standup XL-Set Missile Fire Control Computer I Blueprint
+44092 1628 Standup L-Set ME Research Optimization I Blueprint
+44010 1628 Standup M-Set Drone and Fighter Manufacturing Material Efficiency I Blueprint
+37043 1628 Standup XL Energy Neutralizer I Blueprint
+37853 1628 Standup XL Cruise Missile Blueprint
+37020 1628 Standup Ballistic Control System I Blueprint
+44084 1628 Standup L-Set Blueprint Copy Optimization I Blueprint
+44082 1628 Standup L-Set Basic Small Ship Manufacturing Efficiency I Blueprint
+37376 1628 Standup XL-Set Structure and Component Manufacturing Efficiency I Blueprint
+36960 1628 Pharolux Cyno Beacon Blueprint
+37835 1628 Standup Magnetometric ECM Script Blueprint
+44076 1628 Standup L-Set Advanced Small Ship Manufacturing Efficiency I Blueprint
+47110 1628 Standup ECM Jammer Burst Projector Blueprint
+37309 1628 Standup L-Set Ammunition Manufacturing Efficiency I Blueprint
+44002 1628 Standup M-Set Equipment Manufacturing Material Efficiency I Blueprint
+44062 1628 Standup M-Set Blueprint Copy Cost Optimization I Blueprint
+44012 1628 Standup M-Set Drone and Fighter Manufacturing Time Efficiency I Blueprint
+36961 1628 Ansiblex Jump Gate Blueprint
+47111 1628 Standup Sensor Dampening Burst Projector Blueprint
+37836 1628 Standup Radar ECM Script Blueprint
+37310 1628 Standup XL-Set Equipment and Consumable Manufacturing Efficiency I Blueprint
+37334 1628 Standup L-Set Equipment Manufacturing Efficiency I Blueprint
+47361 1628 Standup Layered Armor Plating I Blueprint
+36966 1628 Astrahus Blueprint
+44064 1628 Standup M-Set Blueprint Copy Accelerator I Blueprint
+44014 1628 Standup M-Set Basic Small Ship Manufacturing Material Efficiency I Blueprint
+37538 1628 Tenebrex Cyno Jammer Blueprint
+37852 1628 Standup Super-heavy Torpedo Blueprint
+47337 1628 Standup Focused Warp Scrambling Script Blueprint
+37330 1628 Standup L-Set Basic Large Ship Manufacturing Efficiency I Blueprint
+43926 1628 Standup Invention Lab I Blueprint
+44036 1628 Standup M-Set Advanced Large Ship Manufacturing Time Efficiency I Blueprint
+37858 1628 Standup Heavy Guided Bomb Blueprint
+37060 1628 Standup Reactor Control Unit I Blueprint
+44016 1628 Standup M-Set Basic Small Ship Manufacturing Time Efficiency I Blueprint
+49721 1628 Structure EXERT Conduit Coupler Blueprint
+47113 1628 Standup Warp Disruption Burst Projector Blueprint
+36967 1628 Fortizar Blueprint
+47354 1628 Standup Cap Battery I Blueprint
+37332 1628 Standup L-Set Advanced Large Ship Manufacturing Efficiency I Blueprint
+37859 1628 Standup Light Guided Bomb Blueprint
+47114 1628 Standup Energy Neutralization Burst Projector Blueprint
+44018 1628 Standup M-Set Basic Medium Ship Manufacturing Material Efficiency I Blueprint
+37855 1628 Standup Cruise Missile Blueprint
+47357 1628 Standup Capacitor Power Relay I Blueprint
+44020 1628 Standup M-Set Basic Medium Ship Manufacturing Time Efficiency I Blueprint
+43925 1628 Standup Capital Shipyard I Blueprint
+47115 1628 Standup Gravitational Transportation Field Oscillator Blueprint
+37856 1628 Standup Heavy Missile Blueprint
+44078 1628 Standup L-Set Basic Capital Component Manufacturing Efficiency I Blueprint
+44054 1628 Standup M-Set ME Research Cost Optimization I Blueprint
+37338 1628 Standup L-Set Advanced Component Manufacturing Efficiency I Blueprint
+44022 1628 Standup M-Set Basic Large Ship Manufacturing Material Efficiency I Blueprint
+46501 1628 Standup L-Set Moon Drilling Proficiency I Blueprint
+44080 1628 Standup L-Set Basic Medium Ship Manufacturing Efficiency I Blueprint
+37343 1628 Standup XL-Set Ship Manufacturing Efficiency I Blueprint
+36968 1628 Keepstar Blueprint
+44004 1628 Standup M-Set Equipment Manufacturing Time Efficiency I Blueprint
+44024 1628 Standup M-Set Basic Large Ship Manufacturing Time Efficiency I Blueprint
+46503 1628 Standup M-Set Moon Drilling Stability I Blueprint
+37346 1628 Standup XL-Set Laboratory Optimization I Blueprint
+46647 1628 Standup M-Set Moon Ore Grading Processor I Blueprint
+43927 1628 Standup Manufacturing Plant I Blueprint
+44026 1628 Standup M-Set Advanced Small Ship Manufacturing Material Efficiency I Blueprint
+46505 1628 Standup M-Set Moon Drilling Efficiency I Blueprint
+46516 1628 Standup M-Set Biochemical Reactor Material Efficiency I Blueprint
+45540 1628 Standup Composite Reactor I Blueprint
+44028 1628 Standup M-Set Advanced Small Ship Manufacturing Time Efficiency I Blueprint
+46506 1628 Standup M-Set Composite Reactor Time Efficiency I Blueprint
+44030 1628 Standup M-Set Advanced Medium Ship Manufacturing Material Efficiency I Blueprint
+36977 1628 Athanor Blueprint
+44086 1628 Standup L-Set Capital Ship Manufacturing Efficiency I Blueprint
+37022 1628 Standup Market Hub I Blueprint
+37066 1628 Standup Remote Sensor Dampener I Blueprint
+37080 1628 Standup Stasis Webifier I Blueprint
+36978 1628 Tatara Blueprint
+44052 1628 Standup M-Set Invention Accelerator I Blueprint
+44088 1628 Standup L-Set Drone and Fighter Manufacturing Efficiency I Blueprint
+47109 1628 Standup Weapon Disruption Burst Projector Blueprint
+37023 1628 Standup Cloning Center I Blueprint
+43928 1628 Standup Research Lab I Blueprint
+37423 1628 Standup L-Set Target Acquisition Array I Blueprint
+37028 1628 Standup Co-Processor Array I Blueprint
+47107 1628 Standup Target Illumination Burst Projector Blueprint
+37833 1628 Standup Gravimetric ECM Script Blueprint
+36972 1628 Azbel Blueprint
+37834 1628 Standup Ladar ECM Script Blueprint
+46510 1628 Standup M-Set Hybrid Reactor Time Efficiency I Blueprint
+46512 1628 Standup M-Set Hybrid Reactor Material Efficiency I Blueprint
+46514 1628 Standup M-Set Biochemical Reactor Time Efficiency I Blueprint
+44096 1628 Standup L-Set TE Research Optimization I Blueprint
+36971 1628 Raitaru Blueprint
+46518 1628 Standup L-Set Reactor Efficiency I Blueprint
+46643 1628 Standup M-Set Asteroid Ore Grading Processor I Blueprint
+46649 1628 Standup L-Set Reprocessing Monitor I Blueprint
+46651 1628 Standup XL-Set Reprocessing Monitor I Blueprint
+43929 1628 Standup Supercapital Shipyard I Blueprint
+37041 1628 Standup Variable Spectrum ECM I Blueprint
+44008 1628 Standup M-Set Ammunition Manufacturing Time Efficiency I Blueprint
+37435 1628 Standup XL-Set EW and Emissions Co-ordinator I Blueprint
+37034 1628 Standup Moon Drill I Blueprint
+44060 1628 Standup M-Set TE Research Accelerator I Blueprint
+37047 1628 Standup Anticapital Missile Launcher I Blueprint
+46645 1628 Standup M-Set Ice Grading Processor I Blueprint
+37045 1628 Standup Missile Guidance Enhancer I Blueprint
+44032 1628 Standup M-Set Advanced Medium Ship Manufacturing Time Efficiency I Blueprint
+44034 1628 Standup M-Set Advanced Large Ship Manufacturing Material Efficiency I Blueprint
+37029 1628 Standup Point Defense Battery I Blueprint
+45541 1628 Standup Hybrid Reactor I Blueprint
+44094 1628 Standup L-Set Structure Manufacturing Efficiency I Blueprint
+45542 1628 Standup Biochemical Reactor I Blueprint
+37032 1628 Standup Reprocessing Facility I Blueprint
+44042 1628 Standup M-Set Basic Capital Component Manufacturing Material Efficiency I Blueprint
+37044 1628 Standup Heavy Energy Neutralizer I Blueprint
+44050 1628 Standup M-Set Invention Cost Optimization I Blueprint
+44056 1628 Standup M-Set ME Research Accelerator I Blueprint
+44058 1628 Standup M-Set TE Research Cost Optimization I Blueprint
+44006 1628 Standup M-Set Ammunition Manufacturing Material Efficiency I Blueprint
+36973 1626 Sotiyo Blueprint
+31239 1625 Small Memetic Algorithm Bank I Blueprint
+1130 1368 Iron Charge S Blueprint
+1133 1239 Lead Charge S Blueprint
+1132 1226 Iridium Charge S Blueprint
+1131 1214 Tungsten Charge S Blueprint
+43911 1211 Ice Harvesting Drone I Blueprint
+33519 1211 Mobile Tractor Unit Blueprint
+10247 1211 Mining Drone I Blueprint
+2019 1208 Medium Cap Battery I Blueprint
+57429 1201 Mobile Cynosural Beacon Blueprint
+58905 1201 Mobile Observatory Blueprint
+59632 1201 Covert Mobile Cynosural Beacon Blueprint
+814 1165 Nova Light Missile Blueprint
+1136 1161 Plutonium Charge S Blueprint
+813 1159 Mjolnir Light Missile Blueprint
+786 1154 Light Missile Launcher I Blueprint
+1141 1140 Lead Charge M Blueprint
+33518 1139 Mobile Cynosural Inhibitor Blueprint
+33592 1139 Mobile Micro Jump Unit Blueprint
+811 1130 Scourge Light Missile Blueprint
+3529 1121 Medium Armor Repairer I Blueprint
+1134 1119 Thorium Charge S Blueprint
+1135 1119 Uranium Charge S Blueprint
+1138 1112 Iron Charge M Blueprint
+893 1109 Phased Plasma M Blueprint
+889 1109 Proton M Blueprint
+812 1103 Inferno Light Missile Blueprint
+879 1100 Carbonized Lead S Blueprint
+881 1095 Proton S Blueprint
+1122 1088 Electron Blaster Cannon I Blueprint
+1123 1088 Dual 250mm Railgun I Blueprint
+1117 1088 Heavy Electron Blaster I Blueprint
+1118 1088 Dual 150mm Railgun I Blueprint
+1119 1088 Heavy Neutron Blaster I Blueprint
+1120 1088 Heavy Ion Blaster I Blueprint
+1125 1088 425mm Railgun I Blueprint
+1126 1088 Ion Blaster Cannon I Blueprint
+1811 1084 Scourge Auto-Targeting Light Missile I Blueprint
+1139 1079 Tungsten Charge M Blueprint
+946 1076 Burst Blueprint
+3767 1076 Vigil Blueprint
+2509 1072 Nova Torpedo Blueprint
+2513 1072 Mjolnir Rocket Blueprint
+32441 1072 Inferno XL Cruise Missile Blueprint
+17862 1072 Inferno XL Torpedo Blueprint
+17864 1072 Nova XL Torpedo Blueprint
+32437 1072 Scourge XL Cruise Missile Blueprint
+2507 1072 Mjolnir Torpedo Blueprint
+32439 1072 Nova XL Cruise Missile Blueprint
+32443 1072 Mjolnir XL Cruise Missile Blueprint
+17860 1072 Scourge XL Torpedo Blueprint
+17858 1072 Mjolnir XL Torpedo Blueprint
+1220 1072 Scourge Rocket Blueprint
+1221 1072 Scourge Torpedo Blueprint
+3830 1071 Medium Shield Extender I Blueprint
+885 1067 Phased Plasma S Blueprint
+2162 1061 Crucifier Blueprint
+1817 1054 Inferno Auto-Targeting Light Missile I Blueprint
+1216 1054 Mjolnir Auto-Targeting Light Missile I Blueprint
+884 1053 Fusion S Blueprint
+882 1052 Depleted Uranium S Blueprint
+1151 1042 Uranium Charge L Blueprint
+1150 1042 Thorium Charge L Blueprint
+1144 1042 Plutonium Charge M Blueprint
+1145 1042 Antimatter Charge M Blueprint
+1147 1042 Tungsten Charge L Blueprint
+1149 1042 Lead Charge L Blueprint
+1140 1042 Iridium Charge M Blueprint
+1153 1042 Antimatter Charge L Blueprint
+1152 1042 Plutonium Charge L Blueprint
+1148 1042 Iridium Charge L Blueprint
+1142 1042 Thorium Charge M Blueprint
+1143 1042 Uranium Charge M Blueprint
+883 1040 Titanium Sabot S Blueprint
+886 1038 EMP S Blueprint
+11306 1034 Kinetic Armor Hardener I Blueprint
+11278 1034 Thermal Armor Hardener I Blueprint
+11302 1034 EM Armor Hardener I Blueprint
+11304 1034 Explosive Armor Hardener I Blueprint
+820 1034 150mm Light AutoCannon I Blueprint
+1815 1033 Nova Auto-Targeting Light Missile I Blueprint
+685 1028 Griffin Blueprint
+684 1028 Condor Blueprint
+1137 1024 Antimatter Charge S Blueprint
+945 1022 Breacher Blueprint
+1146 1021 Iron Charge L Blueprint
+2511 1020 Inferno Torpedo Blueprint
+2517 1020 Nova Rocket Blueprint
+955 1020 Atron Blueprint
+1275 1020 Layered Coating I Blueprint
+941 1020 Incursus Blueprint
+1204 1020 EM Coating I Blueprint
+1285 1020 Kinetic Coating I Blueprint
+1295 1020 Thermal Coating I Blueprint
+692 1019 Stabber Blueprint
+831 1016 800mm Repeating Cannon I Blueprint
+824 1016 Dual 180mm AutoCannon I Blueprint
+891 1010 Titanium Sabot M Blueprint
+880 1010 Nuclear S Blueprint
+689 1010 Slasher Blueprint
+887 1010 Carbonized Lead M Blueprint
+819 1010 125mm Gatling AutoCannon I Blueprint
+821 1010 200mm AutoCannon I Blueprint
+2184 1003 Hammerhead I Blueprint
+973 1002 Arbitrator Blueprint
+837 1002 Small Focused Pulse Laser I Blueprint
+841 1002 Focused Medium Beam Laser I Blueprint
+840 1002 Focused Medium Pulse Laser I Blueprint
+838 1002 Small Focused Beam Laser I Blueprint
+842 1002 Heavy Pulse Laser I Blueprint
+846 1002 Mega Pulse Laser I Blueprint
+839 1002 Quad Light Beam Laser I Blueprint
+969 1002 Maller Blueprint
+970 1002 Augoror Blueprint
+847 1002 Mega Beam Laser I Blueprint
+937 1002 Inquisitor Blueprint
+41624 1000 Capital Solace Scoped Remote Armor Repairer Blueprint
+34329 1000 Bowhead Blueprint
+41087 1000 Modal Enduring Triple Neutron Blaster Cannon Blueprint
+41133 1000 Modal Enduring Ion Siege Blaster Blueprint
+954 1000 Imicus Blueprint
+41144 1000 Compressed Enduring Dual 1000mm Railgun Blueprint
+41178 1000 TE-2100 Ample XL Cruise Missile Launcher Blueprint
+41184 1000 TE-2100 Ample XL Torpedo Launcher Blueprint
+41227 1000 TE-2100 Ample Rapid Torpedo Launcher Blueprint
+41645 1000 Capital F-RX Compact Capacitor Booster Blueprint
+41632 1000 Capital C-5L Compact Shield Booster Blueprint
+40720 996 Capital Implacable Compact Emergency Hull Energizer Blueprint
+41070 996 Modal Enduring Quad Mega Pulse Laser Blueprint
+41106 996 Modal Enduring Dual Giga Pulse Laser Blueprint
+41121 996 Modal Enduring Dual Giga Beam Laser Blueprint
+41096 996 Prototype Precise Quad 800mm Repeating Cannon Blueprint
+41165 996 Prototype Precise Hexa 2500mm Repeating Cannon Blueprint
+41171 996 Prototype Precise Quad 3500mm Siege Artillery Blueprint
+41614 996 Capital I-a Enduring Armor Repairer Blueprint
+41093 996 Compact Carbine Quad 800mm Repeating Cannon Blueprint
+41161 996 Carbine Compact Hexa 2500mm Repeating Cannon Blueprint
+41168 996 Carbide Compact Quad 3500mm Siege Artillery Blueprint
+41072 996 Afocal Precise Quad Mega Pulse Laser Blueprint
+41108 996 Afocal Precise Dual Giga Pulse Laser Blueprint
+41123 996 Afocal Precise Dual Giga Beam Laser Blueprint
+41621 996 Capital I-ax Enduring Remote Armor Repairer Blueprint
+41633 996 Capital Clarity Ward Enduring Shield Booster Blueprint
+41697 996 Capital Radiative Scoped Remote Capacitor Transmitter Blueprint
+41095 996 Scout Scoped Quad 800mm Repeating Cannon Blueprint
+41162 996 Gallium Ample Hexa 2500mm Repeating Cannon Blueprint
+41163 996 Scout Scoped Hexa 2500mm Repeating Cannon Blueprint
+41094 996 Ample Gallium Quad 800mm Repeating Cannon Blueprint
+41169 996 Gallium Ample Quad 3500mm Siege Artillery Blueprint
+41170 996 Scout Scoped Quad 3500mm Siege Artillery Blueprint
+1212 996 Passive Targeter I Blueprint
+41071 996 Anode Scoped Quad Mega Pulse Laser Blueprint
+41105 996 Modulated Compact Dual Giga Pulse Laser Blueprint
+41122 996 Anode Scoped Dual Giga Beam Laser Blueprint
+41069 996 Modulated Compact Quad Mega Pulse Laser Blueprint
+41107 996 Anode Scoped Dual Giga Pulse Laser Blueprint
+41120 996 Modulated Compact Dual Giga Beam Laser Blueprint
+1558 994 Small Plasma Smartbomb I Blueprint
+1121 994 250mm Railgun I Blueprint
+41243 990 10000MN Y-S8 Compact Afterburner Blueprint
+41089 990 Limited Precise Triple Neutron Blaster Cannon Blueprint
+2515 990 Inferno Rocket Blueprint
+41088 990 Anode Scoped Triple Neutron Blaster Cannon Blueprint
+4313 990 Oxygen Fuel Block Blueprint
+4314 990 Nitrogen Fuel Block Blueprint
+4315 990 Helium Fuel Block Blueprint
+4316 990 Hydrogen Fuel Block Blueprint
+41134 990 Anode Scoped Ion Siege Blaster Blueprint
+41146 990 Scout Scoped Dual 1000mm Railgun Blueprint
+40686 990 Capital Knave Scoped Energy Nosferatu Blueprint
+41135 990 Limited Precise Ion Siege Blaster Blueprint
+41148 990 Prototype Precise Dual 1000mm Railgun Blueprint
+41244 990 10000MN Monopropellant Enduring Afterburner Blueprint
+41615 990 Capital ACM Compact Armor Repairer Blueprint
+41177 990 Arbalest Compact XL Cruise Missile Launcher Blueprint
+41183 990 Arbalest Compact XL Torpedo Launcher Blueprint
+41226 990 Arbalest Compact Rapid Torpedo Launcher Blueprint
+2174 988 Infiltrator I Blueprint
+2465 987 Hornet I Blueprint
+21667 985 Capital Projectile Turret
+20327 982 Capital Energy Turret
+12205 982 Large Beam Laser Specialization
+12204 982 Medium Beam Laser Specialization
+12214 982 Medium Pulse Laser Specialization
+12215 982 Large Pulse Laser Specialization
+41407 982 Capital Pulse Laser Specialization
+12213 982 Small Pulse Laser Specialization
+12484 982 Amarr Drone Specialization
+41408 982 Capital Beam Laser Specialization
+11083 982 Small Beam Laser Specialization
+1876 981 Rapid Light Missile Launcher I Blueprint
+1112 981 75mm Gatling Rail I Blueprint
+1115 980 Light Neutron Blaster I Blueprint
+40673 979 Capital Gremlin Compact Energy Neutralizer Blueprint
+2455 978 Hobgoblin I Blueprint
+41405 977 Capital Blaster Specialization
+12210 977 Small Blaster Specialization
+12211 977 Medium Blaster Specialization
+12212 977 Large Blaster Specialization
+12486 977 Gallente Drone Specialization
+834 976 Gatling Pulse Laser I Blueprint
+835 976 Dual Light Pulse Laser I Blueprint
+836 976 Dual Light Beam Laser I Blueprint
+1114 976 Light Ion Blaster I Blueprint
+1113 976 Light Electron Blaster I Blueprint
+41601 975 Capital Azeotropic Restrained Shield Extender Blueprint
+2487 970 Warrior I Blueprint
+41132 968 Regulated Compact Ion Siege Blaster Blueprint
+41143 968 Carbide Compact Dual 1000mm Railgun Blueprint
+41086 968 Regulated Compact Triple Neutron Blaster Cannon Blueprint
+1171 966 Microwave L Blueprint
+1945 966 Bestower Blueprint
+11568 966 Avatar Blueprint
+1172 966 Infrared L Blueprint
+996 966 Apocalypse Blueprint
+997 966 Armageddon Blueprint
+17689 966 Radio XL Blueprint
+16234 966 Prophecy Blueprint
+16237 966 Coercer Blueprint
+17683 966 Infrared XL Blueprint
+17687 966 Multifrequency XL Blueprint
+17691 966 Standard XL Blueprint
+17693 966 Ultraviolet XL Blueprint
+17695 966 Xray XL Blueprint
+19745 966 Sigil Blueprint
+20184 966 Providence Blueprint
+3954 966 Medium EMP Smartbomb I Blueprint
+17681 966 Gamma XL Blueprint
+17685 966 Microwave XL Blueprint
+21018 966 Capital Armor Plates Blueprint
+21020 966 Capital Capacitor Battery Blueprint
+41392 966 Weapon Disruption Burst Projector Blueprint
+1174 966 Ultraviolet L Blueprint
+23758 966 Archon Blueprint
+23920 966 Aeon Blueprint
+24551 966 'Judgment' Electromagnetic Doomsday Blueprint
+43659 966 Amarr Phenomena Generator Blueprint
+24697 966 Harbinger Blueprint
+41068 966 Quad Mega Pulse Laser I Blueprint
+1176 966 Gamma L Blueprint
+24693 966 Abaddon Blueprint
+1175 966 Xray L Blueprint
+1161 966 Multifrequency S Blueprint
+845 966 Dual Heavy Beam Laser I Blueprint
+2007 966 Omen Blueprint
+41445 966 'Holy Destiny' Electromagnetic Lance Blueprint
+41452 966 'Divine Harvest' Electromagnetic Reaper Blueprint
+41582 966 Apostle Blueprint
+1166 966 Ultraviolet M Blueprint
+1177 966 Multifrequency L Blueprint
+844 966 Dual Heavy Pulse Laser I Blueprint
+848 966 Tachyon Beam Laser I Blueprint
+1159 966 Xray S Blueprint
+1162 966 Radio M Blueprint
+1164 966 Infrared M Blueprint
+1169 966 Multifrequency M Blueprint
+32875 966 Dragoon Blueprint
+1163 966 Microwave M Blueprint
+1167 966 Xray M Blueprint
+1168 966 Gamma M Blueprint
+1170 966 Radio L Blueprint
+3938 966 Medium Proton Smartbomb I Blueprint
+3942 966 Medium Graviton Smartbomb I Blueprint
+4305 966 Oracle Blueprint
+690 964 Probe Blueprint
+1116 961 150mm Railgun I Blueprint
+27905 960 Large Remote Hull Repairer I Blueprint
+27931 960 Medium Remote Hull Repairer I Blueprint
+27933 960 Small Remote Hull Repairer I Blueprint
+27935 960 Capital Remote Hull Repairer I Blueprint
+21038 960 Capital Construction Parts Blueprint
+4309 960 Talos Blueprint
+16230 960 Brutix Blueprint
+992 960 Iteron Mark V Blueprint
+16241 960 Catalyst Blueprint
+40721 960 Capital Indefatigable Enduring Emergency Hull Energizer Blueprint
+41584 960 Ninazu Blueprint
+995 960 Megathron Blueprint
+11356 960 Small Remote Armor Repairer I Blueprint
+11358 960 Medium Remote Armor Repairer I Blueprint
+999 960 Dominix Blueprint
+41388 960 Sensor Dampening Burst Projector Blueprint
+11360 960 Large Remote Armor Repairer I Blueprint
+24555 960 'Aurora Ominae' Thermal Doomsday Blueprint
+1002 960 Erebus Blueprint
+32873 960 Algos Blueprint
+23914 960 Nyx Blueprint
+23912 960 Thanatos Blueprint
+40685 960 Capital Ghoul Compact Energy Nosferatu Blueprint
+41698 960 Capital Inductive Compact Remote Capacitor Transmitter Blueprint
+41413 960 Hermes Compact Fighter Support Unit Blueprint
+43663 960 Gallente Phenomena Generator Blueprint
+41085 960 Triple Neutron Blaster Cannon I Blueprint
+938 960 Tormentor Blueprint
+944 960 Punisher Blueprint
+20188 960 Obelisk Blueprint
+939 960 Navitas Blueprint
+41450 960 'Guillotine' Thermal Reaper Blueprint
+21030 960 Capital Drone Bay Blueprint
+940 960 Tristan Blueprint
+41447 960 'Phalarica' Thermal Lance Blueprint
+843 960 Heavy Beam Laser I Blueprint
+936 960 Executioner Blueprint
+24570 960 Capital Remote Armor Repairer I Blueprint
+24691 960 Hyperion Blueprint
+24701 960 Myrmidon Blueprint
+956 960 Maulus Blueprint
+972 960 Thorax Blueprint
+978 960 Celestis Blueprint
+41609 960 25000mm Crystalline Carbonide Restrained Plates Blueprint
+979 960 Exequror Blueprint
+985 960 Nereus Blueprint
+989 960 Kryos Blueprint
+990 960 Epithal Blueprint
+991 960 Miasmos Blueprint
+41627 960 Capital Hull Repairer I Blueprint
+41608 960 25000mm Rolled Tungsten Compact Plates Blueprint
+29249 960 Magnate Blueprint
+971 960 Vexor Blueprint
+41657 957 Capital Flex Armor Hardener I Blueprint
+1154 956 Radio S Blueprint
+1155 956 Microwave S Blueprint
+1156 956 Infrared S Blueprint
+1157 956 Standard S Blueprint
+1158 956 Ultraviolet S Blueprint
+1165 956 Standard M Blueprint
+1173 956 Standard L Blueprint
+3567 956 Small Capacitor Booster I Blueprint
+1124 956 Neutron Blaster Cannon I Blueprint
+892 952 Fusion M Blueprint
+26759 952 Heavy Assault Missile Launcher I Blueprint
+15509 952 Vespa I Blueprint
+15511 952 Valkyrie I Blueprint
+21036 952 Capital Computer System Blueprint
+688 952 Raven Blueprint
+994 952 Scorpion Blueprint
+686 952 Osprey Blueprint
+24699 952 Drake Blueprint
+3765 952 Leviathan Blueprint
+27679 952 ECM Jammer Burst Projector Blueprint
+16228 952 Ferox Blueprint
+788 952 Heavy Missile Launcher I Blueprint
+890 952 Depleted Uranium M Blueprint
+16239 952 Cormorant Blueprint
+43661 952 Caldari Phenomena Generator Blueprint
+2332 952 Shield Power Relay I Blueprint
+687 952 Caracal Blueprint
+949 952 Kestrel Blueprint
+950 952 Merlin Blueprint
+952 952 Heron Blueprint
+968 952 Moa Blueprint
+977 952 Blackbird Blueprint
+983 952 Badger Blueprint
+984 952 Tayra Blueprint
+41225 952 Rapid Torpedo Launcher I Blueprint
+1210 952 Burst Jammer I Blueprint
+20186 952 Charon Blueprint
+1247 952 Capacitor Flux Coil I Blueprint
+1255 952 Shield Flux Coil I Blueprint
+1354 952 Reactor Control Unit I Blueprint
+1446 952 Capacitor Power Relay I Blueprint
+1540 952 Power Diagnostic System I Blueprint
+10679 952 125mm Railgun I Blueprint
+41446 952 'Iron Pike' Kinetic Lance Blueprint
+41449 952 'Cold Wind' Kinetic Reaper Blueprint
+41583 952 Minokawa Blueprint
+21024 952 Capital Shield Emitter Blueprint
+32877 952 Corax Blueprint
+23916 952 Chimera Blueprint
+23918 952 Wyvern Blueprint
+24553 952 'Oblivion' Kinetic Doomsday Blueprint
+24689 952 Rokh Blueprint
+4307 952 Naga Blueprint
+1548 952 Small Proton Smartbomb I Blueprint
+1809 950 EM Shield Amplifier I Blueprint
+2538 950 Thermal Shield Amplifier I Blueprint
+2530 950 Explosive Shield Amplifier I Blueprint
+2546 950 Kinetic Shield Amplifier I Blueprint
+825 950 220mm Vulcan AutoCannon I Blueprint
+808 948 Mjolnir Heavy Missile Blueprint
+10630 948 Rocket Launcher I Blueprint
+683 948 Bantam Blueprint
+807 948 Nova Heavy Missile Blueprint
+809 948 Inferno Heavy Missile Blueprint
+810 948 Scourge Heavy Missile Blueprint
+21868 948 Nova Heavy Assault Missile Blueprint
+26760 948 Mjolnir Heavy Assault Missile Blueprint
+26761 948 Inferno Heavy Assault Missile Blueprint
+26762 948 Scourge Heavy Assault Missile Blueprint
+1564 945 Small EMP Smartbomb I Blueprint
+24484 944 Nidhoggur Blueprint
+43665 944 Minmatar Phenomena Generator Blueprint
+24549 944 'Gjallarhorn' Explosive Doomsday Blueprint
+41092 944 Quad 800mm Repeating Cannon I Blueprint
+691 944 Rifter Blueprint
+24695 944 Maelstrom Blueprint
+41448 944 'Geiravor' Explosive Lance Blueprint
+41451 944 'Jormungandr' Explosive Reaper Blueprint
+41585 944 Lif Blueprint
+829 944 Dual 425mm AutoCannon I Blueprint
+895 944 Carbonized Lead L Blueprint
+896 944 Nuclear L Blueprint
+899 944 Titanium Sabot L Blueprint
+900 944 Fusion L Blueprint
+986 944 Hoarder Blueprint
+987 944 Mammoth Blueprint
+988 944 Wreathe Blueprint
+22853 944 Hel Blueprint
+832 944 1200mm Artillery Cannon I Blueprint
+32879 944 Talwar Blueprint
+16243 944 Thrasher Blueprint
+16232 944 Cyclone Blueprint
+822 944 250mm Light Artillery Cannon I Blueprint
+17667 944 Depleted Uranium XL Blueprint
+833 944 1400mm Howitzer Artillery I Blueprint
+823 944 280mm Howitzer Artillery I Blueprint
+24703 944 Hurricane Blueprint
+12710 944 Target Painter I Blueprint
+41391 944 Target Illumination Burst Projector Blueprint
+41600 944 Capital F-S9 Regolith Compact Shield Extender Blueprint
+17669 944 EMP XL Blueprint
+17671 944 Fusion XL Blueprint
+4311 944 Tornado Blueprint
+826 944 425mm AutoCannon I Blueprint
+827 944 650mm Artillery Cannon I Blueprint
+828 944 720mm Howitzer Artillery I Blueprint
+830 944 Dual 650mm Repeating Cannon I Blueprint
+888 944 Nuclear M Blueprint
+894 944 EMP M Blueprint
+897 944 Proton L Blueprint
+898 944 Depleted Uranium L Blueprint
+901 944 Phased Plasma L Blueprint
+902 944 EMP L Blueprint
+974 944 Rupture Blueprint
+975 944 Bellicose Blueprint
+976 944 Scythe Blueprint
+693 944 Tempest Blueprint
+17665 944 Carbonized Lead XL Blueprint
+17673 944 Nuclear XL Blueprint
+17675 944 Phased Plasma XL Blueprint
+17677 944 Proton XL Blueprint
+17679 944 Titanium Sabot XL Blueprint
+20190 944 Fenrir Blueprint
+20453 944 Hexa 2500mm Repeating Cannon I Blueprint
+20455 944 Quad 3500mm Siege Artillery I Blueprint
+21010 944 Capital Propulsion Engine Blueprint
+23774 944 Ragnarok Blueprint
+998 944 Typhoon Blueprint
+3948 942 Medium Plasma Smartbomb I Blueprint
+1105 941 Small Remote Capacitor Transmitter I Blueprint
+1032 939 Small Shield Booster I Blueprint
+11562 939 Shield Boost Amplifier I Blueprint
+3840 938 Large Shield Extender I Blueprint
+41599 938 Capital Shield Extender I Blueprint
+1819 934 Scourge Auto-Targeting Heavy Missile I Blueprint
+1821 934 Mjolnir Auto-Targeting Heavy Missile I Blueprint
+1823 934 Nova Auto-Targeting Heavy Missile I Blueprint
+1825 934 Inferno Auto-Targeting Heavy Missile I Blueprint
+1827 934 Scourge Auto-Targeting Cruise Missile I Blueprint
+1829 934 Mjolnir Auto-Targeting Cruise Missile I Blueprint
+1831 934 Nova Auto-Targeting Cruise Missile I Blueprint
+1833 934 Inferno Auto-Targeting Cruise Missile I Blueprint
+1552 932 Small Graviton Smartbomb I Blueprint
+11218 930 EM Energized Membrane I Blueprint
+11228 930 Explosive Energized Membrane I Blueprint
+11238 930 Layered Energized Membrane I Blueprint
+11248 930 Kinetic Energized Membrane I Blueprint
+11258 930 Thermal Energized Membrane I Blueprint
+11280 930 1600mm Steel Plates I Blueprint
+11294 930 100mm Steel Plates I Blueprint
+11296 930 200mm Steel Plates I Blueprint
+11298 930 400mm Steel Plates I Blueprint
+11300 930 800mm Steel Plates I Blueprint
+1305 930 Multispectrum Coating I Blueprint
+2021 930 Large Cap Battery I Blueprint
+41607 930 25000mm Steel Plates I Blueprint
+41639 930 Capital Cap Battery I Blueprint
+1128 924 Medium Capacitor Booster I Blueprint
+3553 924 Cap Booster 75 Blueprint
+3555 924 Cap Booster 100 Blueprint
+3577 924 Heavy Capacitor Booster I Blueprint
+11284 924 Cap Booster 150 Blueprint
+11286 924 Cap Booster 200 Blueprint
+11288 924 Cap Booster 400 Blueprint
+11290 924 Cap Booster 800 Blueprint
+41598 924 Cap Booster 3200 Blueprint
+41644 924 Capital Capacitor Booster I Blueprint
+41404 920 Capital Artillery Specialization
+41403 920 Capital Autocannon Specialization
+1265 920 Explosive Coating I Blueprint
+12209 920 Large Autocannon Specialization
+11084 920 Small Autocannon Specialization
+12201 920 Small Artillery Specialization
+12202 920 Medium Artillery Specialization
+12203 920 Large Artillery Specialization
+12208 920 Medium Autocannon Specialization
+12485 920 Minmatar Drone Specialization
+11798 920 Remote Sensor Booster I Blueprint
+1075 916 Ship Scanner I Blueprint
+40751 916 Heavy Warp Scrambler I Blueprint
+1079 916 Warp Scrambler I Blueprint
+1186 914 Small Cap Battery I Blueprint
+1076 910 Survey Scanner I Blueprint
+12345 908 200mm Railgun I Blueprint
+12355 908 350mm Railgun I Blueprint
+1129 908 Multispectrum Shield Hardener I Blueprint
+2290 908 Explosive Shield Hardener I Blueprint
+2292 908 Kinetic Shield Hardener I Blueprint
+2296 908 Thermal Shield Hardener I Blueprint
+2294 908 EM Shield Hardener I Blueprint
+1109 905 Small Energy Neutralizer I Blueprint
+21802 904 Capital Shield Operation
+12096 900 Logistics Cruisers
+3654 900 Medium Hull Repairer I Blueprint
+40684 900 Capital Energy Nosferatu I Blueprint
+1160 896 Gamma S Blueprint
+41662 896 Capital Flex Shield Hardener I Blueprint
+11268 894 Multispectrum Energized Membrane I Blueprint
+11564 893 Micro Auxiliary Power Core I Blueprint
+1074 892 Cargo Scanner I Blueprint
+26224 890 Drug Manufacturing
+41394 890 Warp Disruption Burst Projector Blueprint
+10837 890 Medium Shield Booster I Blueprint
+41390 890 Energy Neutralization Burst Projector Blueprint
+41393 890 Stasis Webification Burst Projector Blueprint
+785 887 Miner I Blueprint
+12109 887 Deep Core Mining Laser I Blueprint
+32783 886 Defender Missile I Blueprint
+40740 868 Heavy Warp Disruptor I Blueprint
+3243 868 Warp Disruptor I Blueprint
+22783 868 Interdiction Sphere Launcher I Blueprint
+41242 865 10000MN Afterburner I Blueprint
+12057 865 10MN Afterburner I Blueprint
+41221 865 Heavy Stasis Grappler I Blueprint
+12067 865 100MN Afterburner I Blueprint
+1072 865 1MN Afterburner I Blueprint
+1026 864 Shield Recharger I Blueprint
+2204 864 Acolyte I Blueprint
+1179 864 Cap Booster 50 Blueprint
+1178 864 Cap Booster 25 Blueprint
+40674 864 Capital Infectious Scoped Energy Neutralizer Blueprint
+3397 863 Advanced Medium Ship Construction
+1010 863 Small Shield Extender I Blueprint
+21603 863 Cynosural Field Theory
+22043 863 Tactical Weapon Reconfiguration
+3430 863 Advanced Target Management
+10040 863 Civilian Shield Booster Blueprint
+803 861 Mjolnir Cruise Missile Blueprint
+40719 861 Capital Emergency Hull Energizer I Blueprint
+805 861 Inferno Cruise Missile Blueprint
+804 861 Scourge Cruise Missile Blueprint
+806 861 Nova Cruise Missile Blueprint
+1099 856 Small Armor Repairer I Blueprint
+1106 855 Small Energy Nosferatu I Blueprint
+21803 850 Capital Repair Systems
+16069 850 Remote Armor Repair Systems
+1102 843 Stasis Webifier I Blueprint
+12275 835 Ballistic Control System I Blueprint
+13321 835 Cruise Missile Launcher I Blueprint
+33449 835 Rapid Heavy Missile Launcher I Blueprint
+35791 835 Missile Guidance Computer I Blueprint
+35772 835 Missile Guidance Enhancer I Blueprint
+1067 803 5MN Microwarpdrive I Blueprint
+37621 803 Micro Jump Field Generator Blueprint
+41256 803 50000MN Microwarpdrive I Blueprint
+12053 803 50MN Microwarpdrive I Blueprint
+12055 803 500MN Microwarpdrive I Blueprint
+40672 682 Capital Energy Neutralizer I Blueprint
+41629 480 Capital IEF Compact Hull Repairer Blueprint
+41622 480 Capital Coaxial Compact Remote Armor Repairer Blueprint
+41628 480 Capital I-b Enduring Hull Repairer Blueprint
+40741 450 Heavy Fleeting Compact Warp Disruptor Blueprint
+40743 378 Heavy Faint Scoped Warp Disruptor Blueprint
+41313 360 50000MN Cold-Gas Enduring Microwarpdrive Blueprint
+41258 356 50000MN Quad LiF Restrained Microwarpdrive Blueprint
+12301 300 Mobile Large Warp Disruptor I Blueprint
+12297 300 Mobile Small Warp Disruptor I Blueprint
+12300 300 Mobile Medium Warp Disruptor I Blueprint
+40757 270 Heavy Faint Epsilon Scoped Warp Scrambler Blueprint
+41640 240 Capital Compact Pb-Acid Cap Battery Blueprint
+41668 240 Capital S95a Scoped Remote Shield Booster Blueprint
+41666 222 Capital Asymmetric Enduring Remote Shield Booster Blueprint
+41667 184 Capital Murky Compact Remote Shield Booster Blueprint
+13000 153 Prototype Cloaking Device I Blueprint
+41257 87 50000MN Y-T8 Compact Microwarpdrive Blueprint
+19721 84 Revelation Blueprint
+19727 68 Phoenix Blueprint
+19725 60 Moros Blueprint
+40753 60 Heavy Initiated Compact Warp Scrambler Blueprint
+19723 59 Naglfar Blueprint
+40742 40 Heavy J5 Enduring Warp Disruptor Blueprint
+40755 40 Heavy J5b Enduring Warp Scrambler Blueprint
+
+Process finished with exit code 0
